@@ -1,0 +1,5 @@
+2019-05-16 15:37:46,024 ERROR com.everis.ejercicio1.Controller.RestFamiliesController [http-nio-8090-exec-1] registro no creado
+2019-05-16 15:38:01,903 ERROR com.everis.ejercicio1.Controller.RestFamiliesController [http-nio-8090-exec-4] registro no creado
+2019-05-16 19:37:29,345 ERROR com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-8089-exec-5] registro no creado
+2019-05-16 19:38:12,302 ERROR com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-8089-exec-7] registro no creado
+2019-05-17 11:51:41,227 ERROR com.everis.ejercicio1.Controller.RestFamiliesController [https-jsse-nio-8089-exec-7] Families no existe

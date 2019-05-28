@@ -1,0 +1,29 @@
+2019-05-25 15:31:23,212 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-05-25 15:31:41,878 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started Ejercicio1Application in 23.663 seconds (JVM running for 25.534)
+2019-05-25 15:33:26,751 INFO com.everis.ejercicio1.Controller.RestParentsController [https-jsse-nio-2222-exec-2] listado de parientes
+2019-05-25 15:33:42,306 INFO com.everis.ejercicio1.Controller.RestParentsController [https-jsse-nio-2222-exec-4] listado de parientes
+2019-05-25 15:34:18,667 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-5] lista ok
+2019-05-25 15:34:33,013 INFO com.everis.ejercicio1.Controller.RestParentsController [https-jsse-nio-2222-exec-3] listado de parientes
+2019-05-25 15:44:55,678 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-05-25 15:45:12,828 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started Ejercicio1Application in 21.986 seconds (JVM running for 23.429)
+2019-05-25 15:46:57,078 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-10] lista ok
+2019-05-25 15:47:54,809 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-8] lista ok
+2019-05-25 15:57:13,742 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-5] lista ok
+2019-05-25 15:57:14,012 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-9] lista ok
+2019-05-25 15:57:14,414 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-6] lista ok
+2019-05-25 15:57:14,736 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-1] lista ok
+2019-05-25 15:57:15,098 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-4] lista ok
+2019-05-25 16:04:55,609 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-8] lista ok
+2019-05-25 16:27:20,125 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-10] lista ok
+2019-05-25 16:48:35,894 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-05-25 16:48:43,131 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started Ejercicio1Application in 10.505 seconds (JVM running for 3833.739)
+2019-05-25 16:48:52,079 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-05-25 16:48:59,113 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started Ejercicio1Application in 10.389 seconds (JVM running for 3849.715)
+2019-05-25 16:49:31,895 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-05-25 16:49:39,596 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started Ejercicio1Application in 11.072 seconds (JVM running for 3890.198)
+2019-05-25 16:51:45,423 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-05-25 16:51:52,281 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started Ejercicio1Application in 10.391 seconds (JVM running for 4022.881)
+2019-05-25 16:52:11,929 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-05-25 16:52:19,137 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started Ejercicio1Application in 10.435 seconds (JVM running for 4049.741)
+2019-05-25 17:01:11,755 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-05-25 17:01:18,471 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started Ejercicio1Application in 9.986 seconds (JVM running for 4589.074)

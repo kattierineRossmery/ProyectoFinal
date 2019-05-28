@@ -1,0 +1,6 @@
+2019-05-20 11:50:41,847 ERROR com.everis.ejercicio1.Controller.RestParentsController [https-jsse-nio-8089-exec-6] Pariente no existe
+2019-05-20 11:51:31,489 ERROR com.everis.ejercicio1.Controller.RestParentsController [https-jsse-nio-8089-exec-6] ID-10000Pariente no existe
+2019-05-20 11:51:53,968 ERROR com.everis.ejercicio1.Controller.RestParentsController [https-jsse-nio-8089-exec-7] ID-10000Pariente no existe
+2019-05-20 11:59:02,162 ERROR com.everis.ejercicio1.Controller.RestParentsController [https-jsse-nio-8089-exec-6] ID-10000 Pariente no existe
+2019-05-20 12:00:19,917 ERROR com.everis.ejercicio1.Controller.RestParentsController [https-jsse-nio-8089-exec-6] ID-10000 Pariente no existe
+2019-05-20 12:00:21,538 ERROR com.everis.ejercicio1.Controller.RestParentsController [https-jsse-nio-8089-exec-8] ID-10000 Pariente no existe

@@ -1,0 +1,144 @@
+2019-05-24 10:22:21,391 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-05-24 10:22:44,095 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started Ejercicio1Application in 27.718 seconds (JVM running for 29.567)
+2019-05-24 10:23:46,783 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-2] lista ok
+2019-05-24 10:23:53,444 INFO com.everis.ejercicio1.Controller.RestFamiliesController [https-jsse-nio-2222-exec-2] lista de familias
+2019-05-24 10:24:11,947 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-2] lista ok
+2019-05-24 10:24:16,742 INFO com.everis.ejercicio1.Controller.RestParentsController [https-jsse-nio-2222-exec-10] listado de parientes
+2019-05-24 10:24:32,192 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-3] lista ok
+2019-05-24 10:24:37,332 INFO com.everis.ejercicio1.Controller.RestParentsController [https-jsse-nio-2222-exec-4] listado de parientes
+2019-05-24 10:24:49,651 INFO com.everis.ejercicio1.Controller.RestParentsController [https-jsse-nio-2222-exec-2] listado de parientes
+2019-05-24 10:33:08,422 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-05-24 10:33:14,957 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started Ejercicio1Application in 9.768 seconds (JVM running for 660.431)
+2019-05-24 10:43:02,673 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-05-24 10:43:08,904 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started Ejercicio1Application in 9.383 seconds (JVM running for 1254.39)
+2019-05-24 10:50:12,463 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-05-24 10:50:27,111 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started Ejercicio1Application in 19.161 seconds (JVM running for 20.571)
+2019-05-24 10:58:06,129 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-05-24 10:58:20,535 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started Ejercicio1Application in 18.799 seconds (JVM running for 20.083)
+2019-05-24 11:03:46,733 INFO com.everis.ejercicio1.Controller.RestParentsController [https-jsse-nio-2222-exec-2] listado de parientes
+2019-05-24 11:04:25,497 INFO com.everis.ejercicio1.Controller.RestParentsController [https-jsse-nio-2222-exec-2] listado de parientes
+2019-05-24 11:06:06,346 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-05-24 11:06:19,201 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started Ejercicio1Application in 17.034 seconds (JVM running for 18.3)
+2019-05-24 11:07:04,786 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-10] lista ok
+2019-05-24 11:07:16,230 INFO com.everis.ejercicio1.Controller.RestParentsController [https-jsse-nio-2222-exec-4] listado de parientes
+2019-05-24 11:07:26,650 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-1] lista ok
+2019-05-24 11:07:35,413 INFO com.everis.ejercicio1.Controller.RestParentsController [https-jsse-nio-2222-exec-3] listado de parientes
+2019-05-24 11:07:42,731 INFO com.everis.ejercicio1.Controller.RestParentsController [https-jsse-nio-2222-exec-10] listado de parientes
+2019-05-24 11:07:46,495 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-4] lista ok
+2019-05-24 11:37:59,249 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-05-24 11:38:15,641 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started Ejercicio1Application in 20.996 seconds (JVM running for 22.372)
+2019-05-24 11:47:43,637 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-6] lista ok
+2019-05-24 11:48:12,229 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-7] lista ok
+2019-05-24 11:48:16,149 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-8] lista ok
+2019-05-24 11:48:19,258 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-10] lista ok
+2019-05-24 11:48:29,050 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-9] lista ok
+2019-05-24 11:48:36,867 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-1] lista ok
+2019-05-24 11:48:48,117 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-2] lista ok
+2019-05-24 11:51:09,151 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-9] lista ok
+2019-05-24 11:52:32,554 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-7] lista ok
+2019-05-24 11:53:52,084 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-4] lista ok
+2019-05-24 11:53:55,105 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-5] lista ok
+2019-05-24 11:54:07,283 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-6] lista ok
+2019-05-24 13:40:28,650 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-05-24 13:41:34,775 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started Ejercicio1Application in 78.448 seconds (JVM running for 85.525)
+2019-05-24 13:43:35,006 INFO com.everis.ejercicio1.Controller.RestParentsController [https-jsse-nio-2222-exec-9] listado de parientes
+2019-05-24 13:44:13,259 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-9] lista ok
+2019-05-24 13:44:27,812 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-6] lista ok
+2019-05-24 13:51:13,124 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-2] lista ok
+2019-05-24 14:04:30,338 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-1] lista ok
+2019-05-24 16:18:02,093 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-7] lista ok
+2019-05-24 16:18:11,117 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-9] lista ok
+2019-05-24 16:30:15,922 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-4] lista ok
+2019-05-24 16:30:57,526 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-2] lista ok
+2019-05-24 16:31:00,555 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-5] lista ok
+2019-05-24 16:32:16,348 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-3] lista ok
+2019-05-24 16:32:19,625 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-8] lista ok
+2019-05-24 16:32:23,086 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-10] lista ok
+2019-05-24 16:32:26,714 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-9] lista ok
+2019-05-24 16:32:31,352 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-1] lista ok
+2019-05-24 16:36:17,585 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-8] lista ok
+2019-05-24 16:36:20,235 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-10] lista ok
+2019-05-24 16:36:21,028 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-9] lista ok
+2019-05-24 16:36:21,728 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-1] lista ok
+2019-05-24 16:36:24,313 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-3] lista ok
+2019-05-24 16:36:26,636 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-4] lista ok
+2019-05-24 16:36:29,224 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-2] lista ok
+2019-05-24 16:36:31,658 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-5] lista ok
+2019-05-24 16:36:32,345 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-7] lista ok
+2019-05-24 16:38:12,382 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-4] lista ok
+2019-05-24 16:38:13,147 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-2] lista ok
+2019-05-24 16:38:13,950 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-5] lista ok
+2019-05-24 16:38:14,747 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-7] lista ok
+2019-05-24 16:38:15,539 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-6] lista ok
+2019-05-24 16:38:16,362 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-8] lista ok
+2019-05-24 16:38:17,179 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-10] lista ok
+2019-05-24 16:38:18,011 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-9] lista ok
+2019-05-24 16:38:18,855 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-1] lista ok
+2019-05-24 16:38:19,665 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-3] lista ok
+2019-05-24 16:42:15,684 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-05-24 16:42:24,452 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started Ejercicio1Application in 12.287 seconds (JVM running for 10935.218)
+2019-05-24 16:48:30,448 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-5] lista ok
+2019-05-24 16:48:32,062 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-6] lista ok
+2019-05-24 16:48:35,269 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-7] lista ok
+2019-05-24 16:48:36,728 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-8] lista ok
+2019-05-24 16:48:37,544 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-9] lista ok
+2019-05-24 16:48:37,898 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-10] lista ok
+2019-05-24 16:48:38,105 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-1] lista ok
+2019-05-24 16:48:38,302 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-2] lista ok
+2019-05-24 16:48:38,494 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-3] lista ok
+2019-05-24 16:48:38,680 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-4] lista ok
+2019-05-24 16:48:38,859 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-5] lista ok
+2019-05-24 16:48:39,043 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-6] lista ok
+2019-05-24 16:48:39,215 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-7] lista ok
+2019-05-24 16:48:39,395 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-8] lista ok
+2019-05-24 16:48:40,380 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-9] lista ok
+2019-05-24 16:48:40,550 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-10] lista ok
+2019-05-24 16:48:40,747 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-1] lista ok
+2019-05-24 16:48:40,935 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-2] lista ok
+2019-05-24 16:48:41,167 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-3] lista ok
+2019-05-24 16:48:41,396 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-4] lista ok
+2019-05-24 16:48:41,709 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-5] lista ok
+2019-05-24 16:48:41,894 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-6] lista ok
+2019-05-24 16:48:42,115 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-7] lista ok
+2019-05-24 16:48:42,319 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-8] lista ok
+2019-05-24 16:48:42,509 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-9] lista ok
+2019-05-24 16:48:42,696 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-10] lista ok
+2019-05-24 16:48:42,913 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-1] lista ok
+2019-05-24 16:48:43,111 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-2] lista ok
+2019-05-24 16:48:43,306 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-3] lista ok
+2019-05-24 16:48:43,703 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-4] lista ok
+2019-05-24 16:48:43,891 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-5] lista ok
+2019-05-24 16:48:44,086 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-6] lista ok
+2019-05-24 16:48:44,299 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-7] lista ok
+2019-05-24 16:48:44,505 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-8] lista ok
+2019-05-24 16:48:44,712 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-9] lista ok
+2019-05-24 16:48:45,033 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-10] lista ok
+2019-05-24 16:48:45,244 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-1] lista ok
+2019-05-24 16:48:45,447 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-2] lista ok
+2019-05-24 16:48:45,654 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-3] lista ok
+2019-05-24 16:48:46,176 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-4] lista ok
+2019-05-24 16:48:46,500 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-5] lista ok
+2019-05-24 16:48:46,922 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-6] lista ok
+2019-05-24 16:48:47,202 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-7] lista ok
+2019-05-24 16:48:47,446 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-8] lista ok
+2019-05-24 16:48:47,680 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-9] lista ok
+2019-05-24 16:48:47,927 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-10] lista ok
+2019-05-24 16:48:48,110 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-1] lista ok
+2019-05-24 16:48:48,343 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-2] lista ok
+2019-05-24 16:48:48,564 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-3] lista ok
+2019-05-24 16:48:48,794 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-4] lista ok
+2019-05-24 16:48:49,030 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-5] lista ok
+2019-05-24 16:48:49,244 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-6] lista ok
+2019-05-24 16:48:49,486 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-7] lista ok
+2019-05-24 16:48:49,705 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-8] lista ok
+2019-05-24 16:48:49,909 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-9] lista ok
+2019-05-24 16:48:50,114 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-10] lista ok
+2019-05-24 16:48:50,350 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-1] lista ok
+2019-05-24 16:50:06,046 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-8] lista ok
+2019-05-24 16:50:10,266 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-9] lista ok
+2019-05-24 17:48:23,804 INFO com.everis.ejercicio1.Controller.RestParentsController [https-jsse-nio-2222-exec-7] listado de parientes
+2019-05-24 17:48:36,276 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-8] lista ok
+2019-05-24 17:48:41,910 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-4] lista ok
+2019-05-24 17:48:46,705 INFO com.everis.ejercicio1.Controller.RestStudentsController [https-jsse-nio-2222-exec-5] lista ok
+2019-05-24 18:31:57,807 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-24 18:32:31,664 INFO org.springframework.boot.StartupInfoLogger [main] Started RestFamiliesControllerTest in 41.199 seconds (JVM running for 48.156)

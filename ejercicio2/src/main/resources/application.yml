@@ -1,0 +1,12 @@
+# Service registers under this name
+spring:
+ application:
+     name: ejercicio2-service  
+     
+# Discovery Server Access
+eureka:
+  client:
+    serviceUrl:
+      defaultZone: http://localhost:8761/eureka/
+  instance:
+    prefer-ip-address: true
