@@ -115,7 +115,7 @@ public class RestSubjectsController {
 	public void eliminar(@PathVariable("id") Integer id) {
 		Optional<Subjects> sub = serv.listId(id);
 		if(sub.isPresent()) {
-			serv.delete(id);
+			serv.softDelete(id);
 		}else {
 			
 			throw new ModeloNotFoundException("ID-" + id);

@@ -116,7 +116,7 @@ public class RestClassesController {
 	public void eliminar(@PathVariable("id") Integer id) {
 		Optional<Classes> par = serv.listId(id);
 		if(par.isPresent()) {
-			serv.delete(id);
+			serv.softDelete(id);
 		}else {
 			
 			throw new ModeloNotFoundException("ID-" + id);

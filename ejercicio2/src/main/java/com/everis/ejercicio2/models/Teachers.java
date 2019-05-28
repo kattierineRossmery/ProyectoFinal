@@ -60,5 +60,5 @@ public class Teachers {
 	@JoinColumn(name = "school_id")
 	private Schools schools;
 
-
+	private Boolean deleted;
 }

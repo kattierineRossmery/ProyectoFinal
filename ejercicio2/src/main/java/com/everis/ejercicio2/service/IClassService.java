@@ -12,10 +12,14 @@ public interface IClassService {
 
 	Classes update(Classes classes);
 
-	void delete(int id);
+	//void delete(int id);
 	  
 	Optional<Classes> listId(int id);
 
 	List<Classes> list();
+
+	public List<Classes> recycleBin(); 
+
+	public void softDelete(int id);
 	
 }

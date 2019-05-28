@@ -48,10 +48,6 @@ public class ClassesServiceImpl implements IClassService{
 		return repo.save(classes);
 	}
 
-	@Override
-	public void delete(int id) {
-		repo.deleteById(id);
-	}
 
 	@Override
 	public Optional<Classes> listId(int id) {
@@ -61,6 +57,16 @@ public class ClassesServiceImpl implements IClassService{
 	@Override
 	public List<Classes> list() {
 		return (List<Classes>) repo.findAll();
+	}
+
+	@Override
+	public List<Classes> recycleBin() {
+		return repo.recycleBin();
+	}
+
+	@Override
+	public void softDelete(int id) {
+		repo.softDelete(id);
 	}
 
 }

@@ -25,10 +25,6 @@ public class SubjectsServiceImpl implements ISubjectService{
 		return repo.save(subject);
 	}
 
-	@Override
-	public void delete(int id) {
-		repo.deleteById(id);
-	}
 
 	@Override
 	public Optional<Subjects> listId(int id) {
@@ -37,7 +33,18 @@ public class SubjectsServiceImpl implements ISubjectService{
 
 	@Override
 	public List<Subjects> list() {
-		return (List<Subjects>) repo.findAll();
+		return repo.findAll();
 	}
+
+	@Override
+	public List<Subjects> recycleBin() {
+		return repo.recycleBin();
+	}
+
+	@Override
+	public void softDelete(int id) {
+		repo.softDelete(id);
+	}
+
 
 }

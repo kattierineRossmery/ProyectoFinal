@@ -11,10 +11,14 @@ public interface ISubjectService {
 
 	Subjects update(Subjects subject);
 
-	void delete(int id);
+	//void delete(int id);
 	  
 	Optional<Subjects> listId(int id);
 
 	List<Subjects> list();
+
+	public List<Subjects> recycleBin(); 
+
+	public void softDelete(int id); 
 	
 }

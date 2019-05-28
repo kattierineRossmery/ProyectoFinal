@@ -34,6 +34,6 @@ public class Subjects {
 	@Size(min=3, max =70, message = "Asignatura debe tener minimo 3 caracteres")
 	private String subjectName;
 	
-	
+	private Boolean deleted;
 
 }

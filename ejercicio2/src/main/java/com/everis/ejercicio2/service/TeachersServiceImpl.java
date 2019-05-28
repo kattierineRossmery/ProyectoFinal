@@ -28,11 +28,6 @@ public class TeachersServiceImpl implements ITeacherService{
 		return repo.save(teacher);
 	}
 
-	@Override
-	public void delete(int id) {
-		repo.deleteById(id);
-	}
-
 
 	@Override
 	public List<Teachers> list() {
@@ -41,8 +36,17 @@ public class TeachersServiceImpl implements ITeacherService{
 
 	@Override
 	public Optional<Teachers> listId(int id) {
-		// TODO Auto-generated method stub
 		return repo.findById(id);
+	}
+	
+	@Override
+	public List<Teachers> recycleBin() {
+		return repo.recycleBin();
+	}
+
+	@Override
+	public void softDelete(int id) {
+		repo.softDelete(id);
 	}
 
 

@@ -11,10 +11,13 @@ public interface ITeacherService {
 
 	Teachers update(Teachers teacher);
 
-	void delete(int id);
+	//void delete(int id);
 	  
 	Optional<Teachers> listId(int id);
 
 	List<Teachers> list();
 
+	public List<Teachers> recycleBin(); 
+
+	public void softDelete(int id);
 }
