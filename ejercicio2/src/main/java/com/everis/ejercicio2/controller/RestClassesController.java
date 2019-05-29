@@ -30,6 +30,7 @@ import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 
 import com.everis.ejercicio2.exception.ModeloNotFoundException;
 import com.everis.ejercicio2.models.Classes;
+import com.everis.ejercicio2.models.Students;
 import com.everis.ejercicio2.service.IClassService;
 
 import org.slf4j.Logger;
@@ -37,7 +38,7 @@ import org.slf4j.LoggerFactory;
 
 @RestController
 @Api(value = "Servicios de Classes")
-@RequestMapping("/api/v1/classes")
+@RequestMapping("/api/v2/classes")
 public class RestClassesController {
 	
 	Logger log = LoggerFactory.getLogger(this.getClass());
@@ -146,4 +147,9 @@ public class RestClassesController {
 			  return resource;
 
 	  }
+	  @ApiOperation(value = "Listar Class por id")
+	  @GetMapping(value = "/lista/{classId}", produces = MediaType.APPLICATION_JSON_VALUE)
+	  List<Students> listStudentByClass(@PathVariable("classId") Integer classId) {
+			return serv.listStudentByClass(classId);
+		}
 }

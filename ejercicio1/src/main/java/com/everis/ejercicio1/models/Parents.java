@@ -56,5 +56,7 @@ public class Parents {
   @ApiModelProperty(value = "the parent's details", required = true)
   @Size(max=200)
   private String otherParentDetails;
+  
+  private Boolean deleted;
 
 }

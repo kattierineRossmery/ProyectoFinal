@@ -16,6 +16,7 @@ import javax.validation.constraints.Size;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
+import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
@@ -30,6 +31,7 @@ import lombok.Setter;
 @Getter
 @Setter
 @NoArgsConstructor
+@AllArgsConstructor
 @Table(name = "Students")
 public class Students {
 
@@ -67,4 +69,5 @@ public class Students {
   @Size(max=250)
   private String otherStudentDetails;
 
+  private Boolean deleted;
 }

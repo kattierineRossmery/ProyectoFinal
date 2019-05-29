@@ -15,7 +15,7 @@ import lombok.Setter;
 @NoArgsConstructor
 public class StudentPorClassDTO {
 	
-	private Classes clases;
+	private Classes classes;
 	private List<Students> lstStudents;
 	private Date dateFrom;
 	private Date dateTo;

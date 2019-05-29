@@ -1,3 +1,6 @@
+#
+server:  port: 8081
+
 # Service registers under this name
 spring:
  application:

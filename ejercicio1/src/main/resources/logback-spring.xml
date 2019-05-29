@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE xml>
 <configuration>
  
     <property name="LOGS" value="./logs" />
- 
+
     <appender name="Console"
         class="ch.qos.logback.core.ConsoleAppender">
         <layout class="ch.qos.logback.classic.PatternLayout">
             <Pattern>
-                %d{yyyy-MM-dd HH:mm:ss} [%thread] %-5level %logger{36} - %msg%n
+                %d{yyyy-MM-dd HH:mm:ss} | %X{Slf4jMdcFilter.UUID} | [%thread] %-5level %logger{36} - %msg%n
             </Pattern>
         </layout>
     </appender>
@@ -17,7 +18,7 @@
         <file>${LOGS}/spring-boot-logger.log</file>
         <encoder
             class="ch.qos.logback.classic.encoder.PatternLayoutEncoder">
-            <Pattern>%d %p %C{1.} [%t] %m%n</Pattern>
+            <Pattern>%d | %X{Slf4jMdcFilter.UUID} | %p %C{1.} [%t] %m%n</Pattern>
         </encoder>
  
         <rollingPolicy
@@ -60,7 +61,7 @@
         <appender-ref ref="Console" />
     </root>
      
-    <!-- LOG "com.plantplaces.*" at TRACE level -->
+    <!-- LOG "com.exerciseone.*" at TRACE level -->
     <logger name="com.everis.ejercicio1" level="trace" additivity="false">
         <appender-ref ref="RollingFile" />
         <appender-ref ref="Console" />
@@ -68,4 +69,3 @@
     </logger>
  
 </configuration>
-

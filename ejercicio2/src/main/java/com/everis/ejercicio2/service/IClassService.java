@@ -4,6 +4,7 @@ import java.util.List;
 import java.util.Optional;
 
 import com.everis.ejercicio2.models.Classes;
+import com.everis.ejercicio2.models.Students;
 
 
 public interface IClassService {
@@ -22,4 +23,5 @@ public interface IClassService {
 
 	public void softDelete(int id);
 	
+	List<Students> listStudentByClass(int classId);
 }

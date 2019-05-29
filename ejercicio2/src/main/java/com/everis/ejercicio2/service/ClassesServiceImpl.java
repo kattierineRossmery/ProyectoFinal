@@ -8,6 +8,7 @@ import org.springframework.stereotype.Service;
 
 import com.everis.ejercicio2.exception.ModeloNotFoundException;
 import com.everis.ejercicio2.models.Classes;
+import com.everis.ejercicio2.models.Students;
 import com.everis.ejercicio2.models.Subjects;
 import com.everis.ejercicio2.models.Teachers;
 import com.everis.ejercicio2.repository.IClassDAO;
@@ -67,6 +68,11 @@ public class ClassesServiceImpl implements IClassService{
 	@Override
 	public void softDelete(int id) {
 		repo.softDelete(id);
+	}
+
+	@Override
+	public List<Students> listStudentByClass(int classId) {
+		return repo.listStudentByClass(classId);
 	}
 
 }

@@ -42,19 +42,6 @@ public class FamiliesServiceImpl implements IFamiliesService {
   
   }
 
-  /**
-   * this function is responsible for deleting an existing record.
-   */
-  @Override
-  public void delete(int id) {
-    
-    repo.findById(id).ifPresent((f) -> {
-      
-      repo.deleteById(id);
-     
-      
-    });
-  }
 
   /**
    * this function is responsible for listing a record by id.
@@ -86,5 +73,21 @@ public class FamiliesServiceImpl implements IFamiliesService {
      
   }
 
-
+@Override
+public List<Families> recycleBin() {
+	return repo.recycleBin();
 }
+
+/**
+ * this function is responsible for deleting an existing record.
+ */
+@Override
+public void softDelete(int id) {
+	 repo.findById(id).ifPresent((f) -> {
+		 repo.softDelete(id);
+	 });
+}
+}
+
+
+

@@ -9,8 +9,17 @@ import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.CrudRepository;
 
 import com.everis.ejercicio2.models.Classes;
+import com.everis.ejercicio2.models.Students;
+
+import feign.Param;
 
 public interface IClassDAO extends CrudRepository<Classes, Integer>{
+	
+	@Query("select c.classId, s.studentId,s.firstName, s.middleName, s.lastName from Classes c inner join StudentsClasses sc \r\n" + 
+			"on c.classId= sc.classes.classId inner join Students s \r\n" + 
+			"on s.studentId=sc.students.studentId \r\n" + 
+			"where c.classId =:classId")
+	List<Students> listStudentByClass(@Param("classId") Integer classId);
 
 	 //Override CrudRepository or PagingAndSortingRepository's query method:
 			// false = no eliminado y true = eliminado

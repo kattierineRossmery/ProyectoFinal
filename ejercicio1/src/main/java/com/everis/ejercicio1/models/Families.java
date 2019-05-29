@@ -49,5 +49,5 @@ public class Families {
   @JoinColumn(name = "head_of_family_parent_id")
   private Parents parentsss;
 
-
+  private Boolean deleted;
 }

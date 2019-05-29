@@ -13,8 +13,8 @@ zuul:
       strip-prefix: false
  
     feign:
-      path: /api/v1/**
-      url: http://localhost:8080/
+      path: /api/v2/**
+      url: http://localhost:8081/
       strip-prefix: false
 
   ssl-hostname-validation-enabled: false

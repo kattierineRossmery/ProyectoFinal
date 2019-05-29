@@ -1,0 +1,12 @@
+2019-05-28 09:58:38,116 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-05-28 09:58:52,757 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started Ejercicio1Application in 19.339 seconds (JVM running for 20.829)
+2019-05-28 12:03:59,129 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-05-28 12:04:13,713 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started Ejercicio1Application in 19.0 seconds (JVM running for 20.304)
+2019-05-28 12:07:44,625 INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-8] lista ok
+2019-05-28 12:11:09,152 INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-8] lista ok
+2019-05-28 12:11:18,587 INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-9] lista ok
+2019-05-28 12:14:41,662 INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-6] lista ok
+2019-05-28 12:17:05,562 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-05-28 12:17:12,802 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started Ejercicio1Application in 11.222 seconds (JVM running for 799.401)
+2019-05-28 14:08:19,915 INFO org.springframework.boot.SpringApplication [restartedMain] No active profile set, falling back to default profiles: default
+2019-05-28 14:08:42,099 INFO org.springframework.boot.StartupInfoLogger [restartedMain] Started Ejercicio1Application in 28.221 seconds (JVM running for 7488.683)

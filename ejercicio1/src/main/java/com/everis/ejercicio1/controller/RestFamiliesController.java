@@ -156,7 +156,7 @@ public class RestFamiliesController {
 	  
 	  Optional<Families> fam = serv.listId(id);
 		if(fam.isPresent()) {
-			serv.delete(id);
+			serv.softDelete(id);
 		}else {
 			
 			throw new ModeloNotFoundException("ID-" + id);

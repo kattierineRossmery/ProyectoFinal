@@ -115,7 +115,7 @@ public class RestStudentsController {
 	public void eliminar(@Valid @PathVariable("id") Integer id) {
 		 Optional<Students> stu = serv.listId(id);
 			if(stu.isPresent()) {
-				serv.delete(id);
+				serv.softDelete(id);
 			}else {
 				
 				throw new ModeloNotFoundException("ID-" + id);
@@ -136,7 +136,7 @@ public class RestStudentsController {
 				
 			}
 			
-		//	return new ResponseEntity<Object>(stu, HttpStatus.OK);
+			// HATEOAS
 			 Resource<Object> resource = new Resource<Object>(stu);
 			  ControllerLinkBuilder linkto = linkTo(methodOn(this.getClass()).listarStudentsPorId(id));
 
@@ -144,5 +144,10 @@ public class RestStudentsController {
 			  
 			  return resource;
 
+	  }
+	  @ApiOperation(value = "Listar Students por id")
+	  @PostMapping("/ids")
+	  public ResponseEntity<List<Students>> listById(@RequestBody List<Integer> listStudentId) {
+	    return new ResponseEntity<List<Students>>(serv.listStudentsByStudentId(listStudentId), HttpStatus.OK);
 	  }
 }

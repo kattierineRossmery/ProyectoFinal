@@ -11,10 +11,12 @@ public interface IParentsService {
   Parents create(Parents parents);
 
   Parents update(Parents parents);
-
-  void delete(int id);
   
   Optional<Parents> listId(int id);
 
   List<Parents> list();
+  
+  public List<Parents> recycleBin(); 
+
+  public void softDelete(int id);
 }

@@ -11,11 +11,15 @@ public interface IStudentsService {
   Students create(Students students);
 
   Students update(Students students);
-
-  void delete(int id);
   
   Optional<Students> listId(int id);
 
   List<Students> list();
+  
+  List<Students> listStudentsByStudentId(List<Integer> listStudentId);
+  
+  public List<Students> recycleBin(); 
+
+  public void softDelete(int id);
 
 }

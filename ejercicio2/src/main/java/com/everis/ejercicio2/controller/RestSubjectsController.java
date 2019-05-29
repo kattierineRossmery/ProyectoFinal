@@ -36,7 +36,7 @@ import io.swagger.annotations.ApiOperation;
 
 @RestController
 @Api(value = "Servicios de Subjects")
-@RequestMapping("/api/v1/subjects")
+@RequestMapping("/api/v2/subjects")
 public class RestSubjectsController {
 
 	Logger log = LoggerFactory.getLogger(this.getClass());

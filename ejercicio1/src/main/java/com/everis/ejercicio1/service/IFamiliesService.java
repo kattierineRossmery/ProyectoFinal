@@ -10,8 +10,6 @@ public interface IFamiliesService {
 
   Families create(Families families);
 
-  public void delete(int id);
-
   Optional<Families> listId(int id);
 
   List<Families> list();
@@ -20,6 +18,8 @@ public interface IFamiliesService {
 
   public Families update(Families families);
 
+  public List<Families> recycleBin(); 
 
+  public void softDelete(int id);
 
 }

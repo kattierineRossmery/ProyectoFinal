@@ -26,11 +26,6 @@ public class StudentsServiceImpl implements IStudentsService {
   }
 
   @Override
-  public void delete(int id) {
-    repo.deleteById(id);
-  }
-
-  @Override
   public List<Students> list() {
     return (List<Students>) repo.findAll();
   }
@@ -39,5 +34,20 @@ public class StudentsServiceImpl implements IStudentsService {
   public Optional<Students> listId(int id) {
     return repo.findById(id);
   }
+
+@Override
+public List<Students> recycleBin() {
+	return repo.recycleBin();
+}
+
+@Override
+public void softDelete(int id) {
+	repo.softDelete(id);
+}
+
+@Override
+public List<Students> listStudentsByStudentId(List<Integer> listStudentId) {
+	return repo.getAllStudentsByStudentId(listStudentId);
+}
 
 }

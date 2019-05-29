@@ -22,7 +22,7 @@ import io.swagger.annotations.ApiOperation;
 
 @RestController
 @Api(value = "Servicios de Classes")
-@RequestMapping("/api/v1/classStudents")
+@RequestMapping("/api/v2/classStudents")
 public class RestClassStudentsController {
 
 	@Autowired
