@@ -1,0 +1,280 @@
+2019-05-29 09:38:05,345 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-29 09:38:22,096 INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio1Application in 21.718 seconds (JVM running for 23.319)
+2019-05-29 09:39:22,381 INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-6] lista ok
+2019-05-29 09:39:30,109 INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-7] lista ok
+2019-05-29 09:43:48,892 INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-4] lista ok
+2019-05-29 09:43:57,181 INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-5] lista ok
+2019-05-29 09:44:05,091 INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-6] lista ok
+2019-05-29 09:44:09,295 INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-7] lista ok
+2019-05-29 09:49:08,273 INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-5] lista ok
+2019-05-29 10:26:12,302 INFO com.everis.ejercicio1.controller.RestParentsController [https-jsse-nio-2222-exec-10] listado de parientes
+2019-05-29 10:26:19,458 INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-1] lista ok
+2019-05-29 10:26:37,671 INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-2] lista ok
+2019-05-29 10:26:54,743 INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-8] lista ok
+2019-05-29 10:45:56,022 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-29 10:46:14,911 INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio1Application in 24.015 seconds (JVM running for 26.821)
+2019-05-29 10:47:01,031 INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-6] lista ok
+2019-05-29 10:49:08,288 INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-10] lista ok
+2019-05-29 11:03:49,608 INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-8] lista ok
+2019-05-29 11:03:53,124 INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-1] lista ok
+2019-05-29 11:04:20,862 INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-2] lista ok
+2019-05-29 11:04:25,440 INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-4] lista ok
+2019-05-29 11:05:54,274 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-29 11:06:10,102 INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio1Application in 20.57 seconds (JVM running for 22.001)
+2019-05-29 11:06:51,544 INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-8] lista ok
+2019-05-29 11:13:48,217 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-29 11:14:03,417 INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio1Application in 19.986 seconds (JVM running for 21.796)
+2019-05-29 11:29:51,550 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-29 11:30:07,267 INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio1Application in 20.82 seconds (JVM running for 22.228)
+2019-05-29 11:32:12,755 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-29 11:32:29,276 INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio1Application in 21.43 seconds (JVM running for 22.792)
+2019-05-29 12:11:23,475 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-29 12:11:37,954 INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio1Application in 19.303 seconds (JVM running for 20.824)
+2019-05-29 12:12:04,132 INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-6] lista ok
+2019-05-29 12:20:39,084 INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-10] Se registro aYuina Manrique
+2019-05-29 12:20:46,280 INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-2] lista ok
+2019-05-29 12:22:25,107 INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-2] Modificado con éxito!! 3
+2019-05-29 12:22:31,039 INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-3] lista ok
+2019-05-29 12:51:24,308 INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-6] lista ok
+2019-05-29 12:57:10,217 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-29 12:57:26,822 INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio1Application in 21.548 seconds (JVM running for 24.188)
+2019-05-29 12:59:12,264 INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-5] lista ok
+2019-05-29 14:48:29,634 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-29 14:48:36,791 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'slf4jMdcFilter' configured for use
+2019-05-29 14:51:37,104 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-29 14:51:42,184 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'slf4jMdcFilter' configured for use
+2019-05-29 14:54:56,807 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-29 14:55:02,038 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'slf4jMdcFilter' configured for use
+2019-05-29 14:56:48,427 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-29 14:56:53,665 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'slf4jMdcFilter' configured for use
+2019-05-29 14:58:12,037 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-29 14:58:18,140 DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'slf4jMdcFilter' configured for use
+2019-05-29 14:58:29,833 INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio1Application in 22.791 seconds (JVM running for 24.175)
+2019-05-29 14:58:38,476 INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-5] Sí está vacío.
+2019-05-29 14:58:38,477 INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-5] responseHeader no está vacío.
+2019-05-29 14:58:49,714 INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-6] Sí está vacío.
+2019-05-29 14:58:49,715 INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-6] responseHeader no está vacío.
+2019-05-29 14:58:49,717 INFO com.everis.ejercicio1.controller.RestParentsController [https-jsse-nio-2222-exec-6] listado de parientes
+2019-05-29 14:59:59,888 INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-3] Sí está vacío.
+2019-05-29 14:59:59,888 INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-3] responseHeader no está vacío.
+2019-05-29 14:59:59,952 INFO com.everis.ejercicio1.service.ParentsServiceImpl [https-jsse-nio-2222-exec-3] Parent es: true
+2019-05-29 14:59:59,952 INFO com.everis.ejercicio1.service.ParentsServiceImpl [https-jsse-nio-2222-exec-3] getGender: M
+2019-05-29 14:59:59,953 INFO com.everis.ejercicio1.service.ParentsServiceImpl [https-jsse-nio-2222-exec-3] getFirstName: Diego
+2019-05-29 14:59:59,953 INFO com.everis.ejercicio1.service.ParentsServiceImpl [https-jsse-nio-2222-exec-3] getMiddleName: Cesar
+2019-05-29 14:59:59,954 INFO com.everis.ejercicio1.service.ParentsServiceImpl [https-jsse-nio-2222-exec-3] getLastName: Ramos
+2019-05-29 14:59:59,954 INFO com.everis.ejercicio1.service.ParentsServiceImpl [https-jsse-nio-2222-exec-3] getOtherParentDetails: 
+2019-05-29 15:00:00,008 INFO com.everis.ejercicio1.controller.RestParentsController [https-jsse-nio-2222-exec-3] Se creo con exito a Diego Ramos
+2019-05-29 15:11:14,896 |  | INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-29 15:11:21,081 |  | DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'slf4jMdcFilter' configured for use
+2019-05-29 15:11:30,877 |  | INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio1Application in 20.75 seconds (JVM running for 24.849)
+2019-05-29 15:12:41,398 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-5] Sí está vacío.
+2019-05-29 15:12:41,399 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-5] responseHeader no está vacío.
+2019-05-29 15:12:41,567 |  | INFO com.everis.ejercicio1.service.ParentsServiceImpl [https-jsse-nio-2222-exec-5] Parent es: true
+2019-05-29 15:12:41,568 |  | INFO com.everis.ejercicio1.service.ParentsServiceImpl [https-jsse-nio-2222-exec-5] getGender: M
+2019-05-29 15:12:41,568 |  | INFO com.everis.ejercicio1.service.ParentsServiceImpl [https-jsse-nio-2222-exec-5] getFirstName: Karlo
+2019-05-29 15:12:41,569 |  | INFO com.everis.ejercicio1.service.ParentsServiceImpl [https-jsse-nio-2222-exec-5] getMiddleName: Ren
+2019-05-29 15:12:41,569 |  | INFO com.everis.ejercicio1.service.ParentsServiceImpl [https-jsse-nio-2222-exec-5] getLastName: Montenegro
+2019-05-29 15:12:41,569 |  | INFO com.everis.ejercicio1.service.ParentsServiceImpl [https-jsse-nio-2222-exec-5] getOtherParentDetails: 
+2019-05-29 15:12:41,743 |  | INFO com.everis.ejercicio1.controller.RestParentsController [https-jsse-nio-2222-exec-5] Se creo con exito a Karlo Montenegro
+2019-05-29 15:13:07,168 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-6] Sí está vacío.
+2019-05-29 15:13:07,169 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-6] responseHeader no está vacío.
+2019-05-29 15:13:07,171 |  | INFO com.everis.ejercicio1.controller.RestParentsController [https-jsse-nio-2222-exec-6] listado de parientes
+2019-05-29 15:17:26,510 |  | INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-29 15:17:32,615 |  | DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'slf4jMdcFilter' configured for use
+2019-05-29 15:17:41,607 |  | INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio1Application in 19.831 seconds (JVM running for 22.466)
+2019-05-29 15:18:21,872 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-5] Sí está vacío.
+2019-05-29 15:18:21,873 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-5] responseHeader no está vacío.
+2019-05-29 15:18:21,899 |  | INFO com.everis.ejercicio1.controller.RestParentsController [https-jsse-nio-2222-exec-5] listado de parientes
+2019-05-29 15:25:06,879 |  | INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-29 15:25:12,254 |  | DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'slf4jMdcFilter' configured for use
+2019-05-29 15:25:20,946 |  | INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio1Application in 18.936 seconds (JVM running for 20.207)
+2019-05-29 15:25:44,947 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-3] Sí está vacío.
+2019-05-29 15:25:44,948 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-3] responseHeader no está vacío.
+2019-05-29 15:25:44,972 |  | INFO com.everis.ejercicio1.controller.RestParentsController [https-jsse-nio-2222-exec-3] listado de parientes
+2019-05-29 15:26:54,372 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-1] Sí está vacío.
+2019-05-29 15:26:54,373 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-1] responseHeader no está vacío.
+2019-05-29 15:26:54,472 |  | INFO com.everis.ejercicio1.service.ParentsServiceImpl [https-jsse-nio-2222-exec-1] Parent es: true
+2019-05-29 15:26:54,472 |  | INFO com.everis.ejercicio1.service.ParentsServiceImpl [https-jsse-nio-2222-exec-1] getGender: M
+2019-05-29 15:26:54,472 |  | INFO com.everis.ejercicio1.service.ParentsServiceImpl [https-jsse-nio-2222-exec-1] getFirstName: Laura
+2019-05-29 15:26:54,473 |  | INFO com.everis.ejercicio1.service.ParentsServiceImpl [https-jsse-nio-2222-exec-1] getMiddleName: Ana
+2019-05-29 15:26:54,473 |  | INFO com.everis.ejercicio1.service.ParentsServiceImpl [https-jsse-nio-2222-exec-1] getLastName: Hernandez
+2019-05-29 15:26:54,473 |  | INFO com.everis.ejercicio1.service.ParentsServiceImpl [https-jsse-nio-2222-exec-1] getOtherParentDetails: 
+2019-05-29 15:26:54,547 |  | INFO com.everis.ejercicio1.controller.RestParentsController [https-jsse-nio-2222-exec-1] Se creo con exito a Laura Hernandez
+2019-05-29 15:42:51,559 |  | INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-29 15:42:57,145 |  | DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'slf4jMdcFilter' configured for use
+2019-05-29 15:43:07,073 |  | INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio1Application in 19.81 seconds (JVM running for 21.064)
+2019-05-29 15:51:26,125 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-5] Sí está vacío.
+2019-05-29 15:51:26,126 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-5] responseHeader no está vacío.
+2019-05-29 15:51:41,136 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-9] Sí está vacío.
+2019-05-29 15:51:41,137 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-9] responseHeader no está vacío.
+2019-05-29 15:58:44,378 |  | INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-29 15:58:49,559 |  | DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'slf4jMdcFilter' configured for use
+2019-05-29 15:58:57,610 |  | INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio1Application in 17.601 seconds (JVM running for 18.848)
+2019-05-29 16:00:26,455 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-5] Sí está vacío.
+2019-05-29 16:00:26,456 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-5] responseHeader no está vacío.
+2019-05-29 16:18:38,357 |  | INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-29 16:18:44,691 |  | DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'slf4jMdcFilter' configured for use
+2019-05-29 16:18:54,132 |  | INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio1Application in 20.504 seconds (JVM running for 23.334)
+2019-05-29 16:21:20,289 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-6] Sí está vacío.
+2019-05-29 16:21:20,294 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-6] responseHeader no está vacío.
+2019-05-29 16:21:20,334 |  | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-6] lista ok
+2019-05-29 16:21:31,000 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-7] Sí está vacío.
+2019-05-29 16:21:31,000 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-7] responseHeader no está vacío.
+2019-05-29 16:34:05,580 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-5] Sí está vacío.
+2019-05-29 16:34:05,580 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-5] responseHeader no está vacío.
+2019-05-29 16:34:05,581 |  | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-5] lista ok
+2019-05-29 16:35:13,272 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-2] Sí está vacío.
+2019-05-29 16:35:13,272 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-2] responseHeader no está vacío.
+2019-05-29 16:35:13,274 |  | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-2] lista ok
+2019-05-29 16:51:09,547 |  | INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-29 16:51:14,836 |  | DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'slf4jMdcFilter' configured for use
+2019-05-29 16:51:23,126 |  | INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio1Application in 17.969 seconds (JVM running for 19.202)
+2019-05-29 17:13:10,307 |  | INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-29 17:13:16,570 |  | DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'slf4jMdcFilter' configured for use
+2019-05-29 17:13:28,635 |  | INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio1Application in 22.906 seconds (JVM running for 24.836)
+2019-05-29 17:15:17,851 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-5] Sí está vacío.
+2019-05-29 17:15:17,853 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-5] responseHeader no está vacío.
+2019-05-29 17:15:17,878 |  | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-5] lista ok
+2019-05-29 17:17:36,244 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-3] Sí está vacío.
+2019-05-29 17:17:36,245 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-3] responseHeader no está vacío.
+2019-05-29 17:23:31,545 |  | INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-29 17:23:36,359 |  | DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'slf4jMdcFilter' configured for use
+2019-05-29 17:23:44,113 |  | INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio1Application in 16.753 seconds (JVM running for 17.886)
+2019-05-29 17:31:52,810 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-6] Sí está vacío.
+2019-05-29 17:31:52,812 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-6] responseHeader no está vacío.
+2019-05-29 17:32:09,792 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-8] Sí está vacío.
+2019-05-29 17:32:09,792 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-8] responseHeader no está vacío.
+2019-05-29 17:40:53,295 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-5] Sí está vacío.
+2019-05-29 17:40:53,295 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-5] responseHeader no está vacío.
+2019-05-29 17:43:46,507 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-2] Sí está vacío.
+2019-05-29 17:43:46,516 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-2] responseHeader no está vacío.
+2019-05-29 17:48:28,437 |  | INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-29 17:48:33,379 |  | DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'slf4jMdcFilter' configured for use
+2019-05-29 17:48:41,514 |  | INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio1Application in 17.291 seconds (JVM running for 18.45)
+2019-05-29 17:48:48,286 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-5] Sí está vacío.
+2019-05-29 17:48:48,288 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-5] responseHeader no está vacío.
+2019-05-29 17:49:07,941 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-7] Sí está vacío.
+2019-05-29 17:49:07,941 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-7] responseHeader no está vacío.
+2019-05-29 17:49:07,944 |  | INFO com.everis.ejercicio1.controller.RestParentsController [https-jsse-nio-2222-exec-7] listado de parientes
+2019-05-29 17:54:09,260 |  | INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-29 17:54:14,180 |  | DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'slf4jMdcFilter' configured for use
+2019-05-29 17:54:21,922 |  | INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio1Application in 16.907 seconds (JVM running for 18.054)
+2019-05-29 17:54:34,717 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-5] Sí está vacío.
+2019-05-29 17:54:34,718 | 89E3430CC42D4264AF07834A454B6400 | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-5] responseHeader no está vacío.
+2019-05-29 17:54:34,743 | 89E3430CC42D4264AF07834A454B6400 | INFO com.everis.ejercicio1.controller.RestParentsController [https-jsse-nio-2222-exec-5] listado de parientes
+2019-05-29 18:34:50,340 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-2] Sí está vacío.
+2019-05-29 18:34:50,341 | 796D30DC93AD4A658858E4E04E0B0922 | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-2] responseHeader no está vacío.
+2019-05-29 18:34:50,344 | 796D30DC93AD4A658858E4E04E0B0922 | INFO com.everis.ejercicio1.controller.RestParentsController [https-jsse-nio-2222-exec-2] listado de parientes
+2019-05-29 18:35:54,568 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-9] Sí está vacío.
+2019-05-29 18:35:54,568 | 8F015B3C369D4CA29B4F6284ED6EB47E | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-9] responseHeader no está vacío.
+2019-05-29 18:36:08,816 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-4] Sí está vacío.
+2019-05-29 18:36:08,816 | ADEC763DA2D343E0AD3EFEA147CB7333 | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-4] responseHeader no está vacío.
+2019-05-29 18:36:08,818 | ADEC763DA2D343E0AD3EFEA147CB7333 | INFO com.everis.ejercicio1.controller.RestParentsController [https-jsse-nio-2222-exec-4] listado de parientes
+2019-05-29 18:36:38,757 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-5] Sí está vacío.
+2019-05-29 18:36:38,758 | 9200E2AA5FCE4A059B971ADBA966E1B3 | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-5] responseHeader no está vacío.
+2019-05-29 18:36:38,760 | 9200E2AA5FCE4A059B971ADBA966E1B3 | INFO com.everis.ejercicio1.controller.RestParentsController [https-jsse-nio-2222-exec-5] listado de parientes
+2019-05-29 18:36:46,356 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-6] Sí está vacío.
+2019-05-29 18:36:46,357 | 0A64004715054553881286148C904955 | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-6] responseHeader no está vacío.
+2019-05-29 19:20:49,750 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-3] Sí está vacío.
+2019-05-29 19:20:49,759 | F0BBEF81BD054E8A8ADB433922E2532E | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-3] responseHeader no está vacío.
+2019-05-29 19:20:49,762 | F0BBEF81BD054E8A8ADB433922E2532E | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-3] lista ok
+2019-05-29 19:20:56,149 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-4] Sí está vacío.
+2019-05-29 19:20:56,150 | ADAAAFC63ECC4D36B770D74F1ADE293F | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-4] responseHeader no está vacío.
+2019-05-29 19:20:56,151 | ADAAAFC63ECC4D36B770D74F1ADE293F | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-4] lista ok
+2019-05-29 19:20:56,649 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-5] Sí está vacío.
+2019-05-29 19:20:56,649 | BCDF3383E1EB4C509B3A723A2E7823E2 | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-5] responseHeader no está vacío.
+2019-05-29 19:20:56,650 | BCDF3383E1EB4C509B3A723A2E7823E2 | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-5] lista ok
+2019-05-29 19:20:57,108 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-6] Sí está vacío.
+2019-05-29 19:20:57,108 | 268289A1078544659042312B477AB9E7 | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-6] responseHeader no está vacío.
+2019-05-29 19:20:57,110 | 268289A1078544659042312B477AB9E7 | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-6] lista ok
+2019-05-29 19:20:57,346 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-7] Sí está vacío.
+2019-05-29 19:20:57,346 | A8798DEB16DD4AB9A805F3196E9DAC35 | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-7] responseHeader no está vacío.
+2019-05-29 19:20:57,348 | A8798DEB16DD4AB9A805F3196E9DAC35 | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-7] lista ok
+2019-05-29 19:20:57,540 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-9] Sí está vacío.
+2019-05-29 19:20:57,541 | B64C963AE38C4392A62DEBA8F07AD437 | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-9] responseHeader no está vacío.
+2019-05-29 19:20:57,542 | B64C963AE38C4392A62DEBA8F07AD437 | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-9] lista ok
+2019-05-29 19:20:58,252 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-10] Sí está vacío.
+2019-05-29 19:20:58,252 | 35F5C42B2E0D42CA87CD1B10ADE34DEB | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-10] responseHeader no está vacío.
+2019-05-29 19:20:58,254 | 35F5C42B2E0D42CA87CD1B10ADE34DEB | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-10] lista ok
+2019-05-29 19:20:58,455 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-8] Sí está vacío.
+2019-05-29 19:20:58,456 | 863F6E6DEACD4F479658A19A94D89694 | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-8] responseHeader no está vacío.
+2019-05-29 19:20:58,457 | 863F6E6DEACD4F479658A19A94D89694 | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-8] lista ok
+2019-05-29 19:20:58,627 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-2] Sí está vacío.
+2019-05-29 19:20:58,628 | C83F5E53F7D54C3FA73F34B55FF6EF75 | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-2] responseHeader no está vacío.
+2019-05-29 19:20:58,629 | C83F5E53F7D54C3FA73F34B55FF6EF75 | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-2] lista ok
+2019-05-29 19:20:58,797 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-1] Sí está vacío.
+2019-05-29 19:20:58,797 | 9E797E976C704AF48A51FB8683790D25 | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-1] responseHeader no está vacío.
+2019-05-29 19:20:58,799 | 9E797E976C704AF48A51FB8683790D25 | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-1] lista ok
+2019-05-29 19:20:58,983 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-3] Sí está vacío.
+2019-05-29 19:20:58,983 | 9B132AABEEA846B7B0E7397BAEDB82BC | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-3] responseHeader no está vacío.
+2019-05-29 19:20:58,984 | 9B132AABEEA846B7B0E7397BAEDB82BC | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-3] lista ok
+2019-05-29 19:20:59,150 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-4] Sí está vacío.
+2019-05-29 19:20:59,150 | 4AFC42486CEA47D3924700D67453B122 | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-4] responseHeader no está vacío.
+2019-05-29 19:20:59,152 | 4AFC42486CEA47D3924700D67453B122 | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-4] lista ok
+2019-05-29 19:20:59,321 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-5] Sí está vacío.
+2019-05-29 19:20:59,322 | 383FCDE986024A3AB8E5F68C7FDB8496 | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-5] responseHeader no está vacío.
+2019-05-29 19:20:59,324 | 383FCDE986024A3AB8E5F68C7FDB8496 | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-5] lista ok
+2019-05-29 19:20:59,529 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-6] Sí está vacío.
+2019-05-29 19:20:59,530 | C55E7D2486A9498CA3459A70D0C189B5 | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-6] responseHeader no está vacío.
+2019-05-29 19:20:59,531 | C55E7D2486A9498CA3459A70D0C189B5 | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-6] lista ok
+2019-05-29 19:20:59,695 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-7] Sí está vacío.
+2019-05-29 19:20:59,695 | AFF3BB455BFB46709685B3308CEA132A | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-7] responseHeader no está vacío.
+2019-05-29 19:20:59,697 | AFF3BB455BFB46709685B3308CEA132A | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-7] lista ok
+2019-05-29 19:20:59,895 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-9] Sí está vacío.
+2019-05-29 19:20:59,896 | D33D021E15D147AB83AE78545A2A9FC2 | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-9] responseHeader no está vacío.
+2019-05-29 19:20:59,898 | D33D021E15D147AB83AE78545A2A9FC2 | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-9] lista ok
+2019-05-29 19:22:54,549 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-6] Sí está vacío.
+2019-05-29 19:22:54,550 | 19B5F9674EA04BF1894B3B89AD83A2DA | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-6] responseHeader no está vacío.
+2019-05-29 19:22:54,551 | 19B5F9674EA04BF1894B3B89AD83A2DA | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-6] lista ok
+2019-05-29 19:23:05,630 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-7] Sí está vacío.
+2019-05-29 19:23:05,631 | 273184BB7A0B436A83580EF1A5F02EE3 | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-7] responseHeader no está vacío.
+2019-05-29 19:23:05,633 | 273184BB7A0B436A83580EF1A5F02EE3 | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-7] lista ok
+2019-05-29 19:23:15,094 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-9] Sí está vacío.
+2019-05-29 19:23:15,095 | 5F665AEB6DBF4C879E4C627EBF06DA68 | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-9] responseHeader no está vacío.
+2019-05-29 19:23:15,097 | 5F665AEB6DBF4C879E4C627EBF06DA68 | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-9] lista ok
+2019-05-29 19:25:10,650 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-4] Sí está vacío.
+2019-05-29 19:25:10,650 | 46E0D8A5FAE2476FAAD65785FCF0EBEC | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-4] responseHeader no está vacío.
+2019-05-29 19:25:10,652 | 46E0D8A5FAE2476FAAD65785FCF0EBEC | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-4] lista ok
+2019-05-29 19:27:12,539 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-1] Sí está vacío.
+2019-05-29 19:27:12,539 | CAC31CFC923A4AB2AD7E6A0BFFF21327 | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-1] responseHeader no está vacío.
+2019-05-29 19:27:12,541 | CAC31CFC923A4AB2AD7E6A0BFFF21327 | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-1] lista ok
+2019-05-29 19:30:11,677 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-8] Sí está vacío.
+2019-05-29 19:30:11,678 | A12470E059A04DE79B2E9CE1A0E3C591 | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-8] responseHeader no está vacío.
+2019-05-29 19:30:11,680 | A12470E059A04DE79B2E9CE1A0E3C591 | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-8] lista ok
+2019-05-29 19:30:51,179 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-2] Sí está vacío.
+2019-05-29 19:30:51,180 | C42D7DBB5E094FA790C98034CCAD60F9 | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-2] responseHeader no está vacío.
+2019-05-29 19:30:51,182 | C42D7DBB5E094FA790C98034CCAD60F9 | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-2] lista ok
+2019-05-29 19:32:14,417 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-9] Sí está vacío.
+2019-05-29 19:32:14,418 | A9CAA81EFFA14511ACCE40733D586582 | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-9] responseHeader no está vacío.
+2019-05-29 19:32:14,430 | A9CAA81EFFA14511ACCE40733D586582 | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-9] lista ok
+2019-05-29 19:32:15,194 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-10] Sí está vacío.
+2019-05-29 19:32:15,194 | 8385BB8F6879495D98EFFA4217B2D205 | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-10] responseHeader no está vacío.
+2019-05-29 19:32:15,196 | 8385BB8F6879495D98EFFA4217B2D205 | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-10] lista ok
+2019-05-29 19:32:16,013 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-8] Sí está vacío.
+2019-05-29 19:32:16,014 | 1477C23CBEF746E7B21D231C027D9F10 | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-8] responseHeader no está vacío.
+2019-05-29 19:32:16,016 | 1477C23CBEF746E7B21D231C027D9F10 | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-8] lista ok
+2019-05-29 19:32:17,211 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-2] Sí está vacío.
+2019-05-29 19:32:17,211 | F9700A330B8848E2927DC88A9B8C7573 | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-2] responseHeader no está vacío.
+2019-05-29 19:32:17,212 | F9700A330B8848E2927DC88A9B8C7573 | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-2] lista ok
+2019-05-29 19:32:17,733 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-1] Sí está vacío.
+2019-05-29 19:32:17,733 | EC994DC95F7248E18127915A73313C33 | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-1] responseHeader no está vacío.
+2019-05-29 19:32:17,734 | EC994DC95F7248E18127915A73313C33 | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-1] lista ok
+2019-05-29 19:32:20,017 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-3] Sí está vacío.
+2019-05-29 19:32:20,017 | 21E75C98976F44E6AE9A3CC7C194986C | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-3] responseHeader no está vacío.
+2019-05-29 19:32:20,018 | 21E75C98976F44E6AE9A3CC7C194986C | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-3] lista ok
+2019-05-29 19:32:20,761 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-4] Sí está vacío.
+2019-05-29 19:32:20,762 | 0A79F0D316BA4182BC0829AC3CD3AB3F | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-4] responseHeader no está vacío.
+2019-05-29 19:32:20,764 | 0A79F0D316BA4182BC0829AC3CD3AB3F | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-4] lista ok
+2019-05-29 19:35:29,530 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-1] Sí está vacío.
+2019-05-29 19:35:29,531 | CB5E14C6F8F441828B2DCDD181AE0D38 | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-1] responseHeader no está vacío.
+2019-05-29 19:35:29,532 | CB5E14C6F8F441828B2DCDD181AE0D38 | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-1] lista ok
+2019-05-29 19:35:35,320 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-3] Sí está vacío.
+2019-05-29 19:35:35,321 | 682106CF9AE94AEEA82AFD4E1715658F | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-3] responseHeader no está vacío.
+2019-05-29 19:35:41,584 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-4] Sí está vacío.
+2019-05-29 19:35:41,585 | 06D8198C01C844DDA72E279A67279975 | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-4] responseHeader no está vacío.
+2019-05-29 19:36:03,093 |  | INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-29 19:36:09,267 |  | DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'slf4jMdcFilter' configured for use
+2019-05-29 19:36:17,302 |  | INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio1Application in 18.57 seconds (JVM running for 19.895)
+2019-05-29 19:36:21,658 |  | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-5] Sí está vacío.
+2019-05-29 19:36:21,658 | 842124B0987B4F4F9B91692ED7184587 | INFO com.everis.ejercicio1.configlogg.Slf4jMdcFilter [https-jsse-nio-2222-exec-5] responseHeader no está vacío.
+2019-05-29 19:36:21,686 | 842124B0987B4F4F9B91692ED7184587 | INFO com.everis.ejercicio1.controller.RestStudentsController [https-jsse-nio-2222-exec-5] lista ok

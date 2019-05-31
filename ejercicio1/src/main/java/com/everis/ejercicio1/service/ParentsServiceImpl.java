@@ -1,5 +1,6 @@
 package com.everis.ejercicio1.service;
 
+import com.everis.ejercicio1.exception.ModeloNotFoundException;
 import com.everis.ejercicio1.models.Parents;
 import com.everis.ejercicio1.repository.IParentsDAO;
 import java.util.List;
@@ -8,6 +9,7 @@ import java.util.Optional;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
 @Service
@@ -52,7 +54,14 @@ public List<Parents> recycleBin() {
 
 @Override
 public void softDelete(int id) {
-	repo.softDelete(id);
+	repo.findById(id)
+	        .map(
+	            p -> {
+	            	repo.softDelete(id);
+	              return ResponseEntity.noContent().build();
+	            })
+	        .orElseThrow(() -> new ModeloNotFoundException("ID-"+ id +"no encontrado"));	
+	
 }
 
   

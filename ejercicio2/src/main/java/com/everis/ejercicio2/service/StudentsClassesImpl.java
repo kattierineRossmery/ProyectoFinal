@@ -14,6 +14,7 @@ public class StudentsClassesImpl implements IClassStudentsService{
 	
 	@Autowired
 	IClassStudentsDAO repo;
+	
 
 	@Override
 	public StudentsClasses create(StudentsClasses classesSt) {
@@ -39,5 +40,12 @@ public class StudentsClassesImpl implements IClassStudentsService{
 	public List<StudentsClasses> list() {
 		return (List<StudentsClasses>) repo.findAll();
 	}
+
+	@Override
+	public List<Integer> findByClassesClassId(int classId) {
+		return repo.findByClassesClassId(classId);
+	}
+
+
 
 }

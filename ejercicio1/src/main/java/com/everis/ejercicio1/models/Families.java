@@ -11,6 +11,7 @@ import javax.validation.constraints.Size;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
+import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
@@ -26,6 +27,7 @@ import lombok.Setter;
 @Getter
 @Setter
 @NoArgsConstructor
+@AllArgsConstructor
 public class Families {
 
   @Id
@@ -35,7 +37,7 @@ public class Families {
 
   @NotNull
   @ApiModelProperty(value = "the family member name", required = true)
-  @Size(min=3, max=180, message = "Bombre familiar debe tener minimo 3 caracteres")
+  @Size(min=3, max=180, message = "Nombre familiar debe tener minimo 3 caracteres")
   private String familyName;
 
   /**
@@ -50,4 +52,7 @@ public class Families {
   private Parents parentsss;
 
   private Boolean deleted;
+
+
+  
 }

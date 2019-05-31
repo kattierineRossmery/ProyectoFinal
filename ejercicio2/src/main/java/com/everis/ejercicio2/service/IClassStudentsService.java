@@ -17,4 +17,6 @@ public interface IClassStudentsService {
 
 	List<StudentsClasses> list();
 	
+	List<Integer> findByClassesClassId(int classId);
+	
 }

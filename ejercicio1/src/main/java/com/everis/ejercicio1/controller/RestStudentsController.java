@@ -136,6 +136,25 @@ public class RestStudentsController {
 				
 			}
 			
+			 Resource<Object> resource = new Resource<Object>(stu);
+		
+			  
+			  return resource;
+
+	  }
+	  /**
+	   * Esta función es responsable de listar un registro.
+	   * @param id - id dado por el usuario.
+	   */
+	  @ApiOperation(value = "Listar Students por id")
+	  @GetMapping(value = "/hateoas/{id}", produces = MediaType.APPLICATION_JSON_VALUE)
+	  public Resource<Object> listarStudentsPorIdHateoas(@PathVariable("id") Integer id) {
+		  Optional<Students> stu = serv.listId(id);
+			if(!stu.isPresent()) {
+				throw new ModeloNotFoundException("ID-" + id);
+				
+			}
+			
 			// HATEOAS
 			 Resource<Object> resource = new Resource<Object>(stu);
 			  ControllerLinkBuilder linkto = linkTo(methodOn(this.getClass()).listarStudentsPorId(id));
@@ -145,6 +164,7 @@ public class RestStudentsController {
 			  return resource;
 
 	  }
+	  
 	  @ApiOperation(value = "Listar Students por id")
 	  @PostMapping("/ids")
 	  public ResponseEntity<List<Students>> listById(@RequestBody List<Integer> listStudentId) {

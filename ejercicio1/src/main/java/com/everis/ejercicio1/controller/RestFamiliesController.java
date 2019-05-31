@@ -174,6 +174,28 @@ public class RestFamiliesController {
 	  
 	  Optional<Families> fam = serv.listId(id);
 		if(!fam.isPresent()) {
+			throw new ModeloNotFoundException("ID -" + id);
+			
+		}
+		
+		
+		  Resource<Object> resource = new Resource<Object>(fam);
+		  
+		  return resource;
+	  }
+
+  /**
+   * HATEOAS
+   * Esta función es responsable de listar un registro.
+   * @param id - id dado por el usuario.
+   * @return objeto Families.
+   */
+  @ApiOperation(value = "Listar family por id")
+  @GetMapping(value = "/hateoas/{id}", produces = MediaType.APPLICATION_JSON_VALUE)
+  public Resource<Object> listarFamiliesPorIdHa(@PathVariable("id") Integer id) {
+	  
+	  Optional<Families> fam = serv.listId(id);
+		if(!fam.isPresent()) {
 			throw new ModeloNotFoundException("ID-" + id);
 			
 		}
@@ -187,7 +209,6 @@ public class RestFamiliesController {
 		  
 		  return resource;
 	  }
-
 
    
 }

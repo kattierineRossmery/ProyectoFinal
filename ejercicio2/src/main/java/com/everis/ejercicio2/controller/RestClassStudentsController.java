@@ -63,5 +63,10 @@ public class RestClassStudentsController {
 			//return ResponseEntity.created(location).build();
 			return serv.create(sc);
 	  }
+	  
+	  public List<Integer> findByClassesClassId(int classId) {
+		return null;
+		//	return repo.findByClassesClassId(classId);
+		}
 	
 }

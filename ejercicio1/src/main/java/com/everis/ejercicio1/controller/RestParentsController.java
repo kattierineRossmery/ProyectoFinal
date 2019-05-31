@@ -1,8 +1,5 @@
 package com.everis.ejercicio1.controller;
 
-import static org.springframework.hateoas.mvc.ControllerLinkBuilder.linkTo;
-import static org.springframework.hateoas.mvc.ControllerLinkBuilder.methodOn;
-
 import java.net.URI;
 import java.util.List;
 import java.util.Optional;
@@ -33,6 +30,9 @@ import com.everis.ejercicio1.models.Parents;
 import com.everis.ejercicio1.service.IParentsService;
 
 import io.swagger.annotations.Api;
+import static org.springframework.hateoas.mvc.ControllerLinkBuilder.linkTo;
+import static org.springframework.hateoas.mvc.ControllerLinkBuilder.methodOn;
+
 import io.swagger.annotations.ApiOperation;
 import io.swagger.annotations.ApiResponse;
 import io.swagger.annotations.ApiResponses;
@@ -133,15 +133,10 @@ public class RestParentsController {
 	 */
 	@ApiOperation(value = "Delete parent by id")
 	@DeleteMapping("/{id}")
-	public void eliminar(@PathVariable("id") Integer id) {
-		Optional<Parents> par = serv.listId(id);
-		if(par.isPresent()) {
-			serv.softDelete(id);
-		}else {
-			
-			throw new ModeloNotFoundException("ID-" + id);
-		}
-				
+	public ResponseEntity<Object> eliminar(@PathVariable("id") Integer id) {
+		serv.softDelete(id);
+		
+		return new ResponseEntity<Object>(HttpStatus.OK);
 
 	}
 	  /**
@@ -158,12 +153,35 @@ public class RestParentsController {
 			
 		}
 		
-		//return new ResponseEntity<Object>(par, HttpStatus.OK);
 		
 		  Resource<Object> resource = new Resource<Object>(par);
-		  ControllerLinkBuilder linkto = linkTo(methodOn(this.getClass()).listarParentsPorId(id));
 
+		  
+		  return resource;
+
+	  }
+	  
+	  /**
+	   * Esta función es responsable de listar un registro.
+	   * @param id - id dado por el usuario.
+	   */
+	  @ApiOperation(value = "Listar Parents por id")
+	  @GetMapping(value = "/hateoas/{id}", produces = MediaType.APPLICATION_JSON_VALUE)
+	  public Resource<Object> listarParentsPorIdHateoas(@PathVariable("id") Integer id) {
+		  
+	   Optional<Parents> par = serv.listId(id);
+		if(!par.isPresent()) {
+			throw new ModeloNotFoundException("ID-" + id);
+			
+		}
+				
+		  Resource<Object> resource = new Resource<Object>(par);
+		
+		  ControllerLinkBuilder linkto =
+		  linkTo(methodOn(this.getClass()).listarParentsPorId(id));
+		  
 		  resource.add(linkto.withRel("links"));
+		 
 		  
 		  return resource;
 
