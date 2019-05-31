@@ -1,6 +1,5 @@
 package com.everis.ejercicio1.controller;
 
-import static org.springframework.test.web.servlet.request.MockMvcRequestBuilders.post;
 import static org.springframework.test.web.servlet.result.MockMvcResultMatchers.status;
 
 import java.util.ArrayList;
@@ -23,7 +22,6 @@ import org.springframework.test.web.servlet.request.MockMvcRequestBuilders;
 
 import com.everis.ejercicio1.models.Families;
 import com.everis.ejercicio1.models.Parents;
-import com.everis.ejercicio1.models.Students;
 import com.everis.ejercicio1.service.FamiliesServiceImpl;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
@@ -74,34 +72,23 @@ public class FamiliesControllerTest {
 	}
 
 
-	@Test
-	public void testInsertar() throws Exception {
-Families f = new Families();
-	    
-		f.setFamilyId(3);
-		f.setFamilyName("Perez");
-		
-		Parents p = new Parents();
-		p.setParentId(2);
-		p.setGender("M");
-	    p.setFirstName("Pedro");
-	    p.setMiddleName("Carlos");
-	    p.setLastName("Perez");
-	    p.setOtherParentDetails("P");
-	    p.setDeleted(false);
-		f.setParentsss(p);
-	   
-	    f.setDeleted(false);		
-		  Mockito.when(FAMService.create(f)).thenReturn(null);
-		
-		
-			 FAMService.create(new Families());
-			 		mokMvc
-				        .perform(
-				            post("/api/v1/students").contentType(MediaType.APPLICATION_JSON).content(asJsonString(new Students())))
-				        .andExpect(status().isBadRequest());
-	}
-
+	/*
+	 * @Test public void testInsertar() throws Exception { Families f = new
+	 * Families();
+	 * 
+	 * f.setFamilyId(3); f.setFamilyName("Perez");
+	 * 
+	 * Parents p = new Parents(); p.setParentId(2); p.setGender("M");
+	 * p.setFirstName("Pedro"); p.setMiddleName("Carlos"); p.setLastName("Perez");
+	 * p.setOtherParentDetails("P"); p.setDeleted(false); f.setParentsss(p);
+	 * 
+	 * f.setDeleted(false); Mockito.when(FAMService.create(f)).thenReturn(null);
+	 * 
+	 * 
+	 * FAMService.create(new Families()); mokMvc .perform(
+	 * post("/api/v1/students").contentType(MediaType.APPLICATION_JSON).content(
+	 * asJsonString(new Students()))) .andExpect(status().isBadRequest()); }
+	 */
 
 	/**
 	   * Test para validar controlar error en caso no exista el id ingresado.

@@ -13,6 +13,11 @@ import com.everis.ejercicio2.models.Students;
 
 import feign.Param;
 
+/**
+ * Inteface de la entidad Classes.
+ * @author kvilcave
+ *
+ */
 public interface IClassDAO extends CrudRepository<Classes, Integer>{
 	
 	@Query("select c.classId, s.studentId,s.firstName, s.middleName, s.lastName from Classes c inner join StudentsClasses sc \r\n" + 

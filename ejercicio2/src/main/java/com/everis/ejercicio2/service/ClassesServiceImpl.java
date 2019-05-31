@@ -3,7 +3,10 @@ package com.everis.ejercicio2.service;
 import java.util.List;
 import java.util.Optional;
 
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
 import com.everis.ejercicio2.exception.ModeloNotFoundException;
@@ -16,6 +19,8 @@ import com.everis.ejercicio2.repository.IClassDAO;
 @Service
 public class ClassesServiceImpl implements IClassService{
 
+	Logger log = LoggerFactory.getLogger(this.getClass());
+	
 	@Autowired
 	private IClassDAO repo;
 	
@@ -41,6 +46,10 @@ public class ClassesServiceImpl implements IClassService{
 		throw new ModeloNotFoundException(mensaje2);
 		}
 		
+		log.info("Class es: " + (classes != null));
+	    log.info("codigo: " + classes.getClassCode());
+	    log.info("name: " + classes.getClassName());
+		
 		return repo.save(classes);
 	}
 
@@ -51,8 +60,8 @@ public class ClassesServiceImpl implements IClassService{
 
 
 	@Override
-	public Optional<Classes> listId(int id) {
-		return repo.findById(id);
+	public Classes listId(int id) {
+		return repo.findById(id).get();
 	}
 
 	@Override
@@ -67,12 +76,24 @@ public class ClassesServiceImpl implements IClassService{
 
 	@Override
 	public void softDelete(int id) {
-		repo.softDelete(id);
+		repo.findById(id)
+        .map(
+            p -> {
+            	repo.softDelete(id);
+              return ResponseEntity.noContent().build();
+            })
+        .orElseThrow(() -> new ModeloNotFoundException("ID-"+ id +"no encontrado"));	
+	
 	}
 
 	@Override
 	public List<Students> listStudentByClass(int classId) {
 		return repo.listStudentByClass(classId);
+	}
+
+	@Override
+	public Optional<Classes> getAllId(int id) {
+		return repo.findById(id);
 	}
 
 }

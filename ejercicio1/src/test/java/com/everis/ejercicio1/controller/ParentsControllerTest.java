@@ -27,7 +27,7 @@ import com.everis.ejercicio1.models.Parents;
 import com.everis.ejercicio1.service.ParentsServiceImpl;
 import com.fasterxml.jackson.databind.ObjectMapper;
 
-@RunWith(SpringRunner.class)
+@RunWith(SpringRunner.class)//esto es para pruebas de integracion
 @WebMvcTest(value = RestParentsController.class)
 public class ParentsControllerTest {
 	

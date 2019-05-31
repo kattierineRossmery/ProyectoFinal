@@ -10,7 +10,11 @@ import javax.validation.constraints.Size;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
-
+/**
+ * Esta clase pertenece a la entidad Schools.
+ * @author kvilcave
+ * @version 27-05-2019 v1
+ */
 @Getter
 @Setter
 @NoArgsConstructor

@@ -1,1 +1,7 @@
+com\everis\ejercicio1\controller\FamiliesControllerTest.class
+com\everis\ejercicio1\service\FamiliesServiceImplTest2.class
+com\everis\ejercicio1\service\ParentsServiceImplTest.class
+com\everis\ejercicio1\controller\ParentsControllerTest.class
 com\everis\ejercicio1\Ejercicio1ApplicationTests.class
+com\everis\ejercicio1\controller\StudentsControllerTest.class
+com\everis\ejercicio1\service\StudentsServiceImplTest.class

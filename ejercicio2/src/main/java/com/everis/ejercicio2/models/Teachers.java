@@ -11,6 +11,7 @@ import javax.validation.constraints.Size;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;
+import lombok.AllArgsConstructor;
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
@@ -25,6 +26,7 @@ import lombok.Setter;
 @Getter
 @Setter
 @NoArgsConstructor
+@AllArgsConstructor
 public class Teachers {
 	
 	@Id
@@ -55,6 +57,11 @@ public class Teachers {
 	@Size(max=180)
 	private String otherTeacherDetails;
 	
+	/**
+	   * La entidad Teachers esta en relacion Many to One con la entidad Schoools.
+	   * "schools" con el nombre de la columna "school_id" es referenciado
+	   * al id(school_id) de la entidad Schools.
+	   */
 	@ApiModelProperty(value = "id de Schools", required = true)
 	@ManyToOne
 	@JoinColumn(name = "school_id")

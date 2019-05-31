@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.everis.ejercicio1.controller.ParentsControllerTest
+-------------------------------------------------------------------------------
+Tests run: 6, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 6.085 s - in com.everis.ejercicio1.controller.ParentsControllerTest

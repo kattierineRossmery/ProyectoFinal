@@ -10,12 +10,14 @@
     {
       "name": "configlogg.slf4jfilter.mdc-client-ip-key",
       "type": "java.lang.String",
-      "sourceType": "com.everis.ejercicio1.configlogg.Slf4jMDCFilterConfiguration"
+      "sourceType": "com.everis.ejercicio1.configlogg.Slf4jMDCFilterConfiguration",
+      "defaultValue": "Slf4jMdcFilter.ClientIP"
     },
     {
       "name": "configlogg.slf4jfilter.mdc-token-key",
       "type": "java.lang.String",
-      "sourceType": "com.everis.ejercicio1.configlogg.Slf4jMDCFilterConfiguration"
+      "sourceType": "com.everis.ejercicio1.configlogg.Slf4jMDCFilterConfiguration",
+      "defaultValue": "Slf4jMdcFilter.UUID"
     },
     {
       "name": "configlogg.slf4jfilter.request-header",
@@ -25,7 +27,8 @@
     {
       "name": "configlogg.slf4jfilter.response-header",
       "type": "java.lang.String",
-      "sourceType": "com.everis.ejercicio1.configlogg.Slf4jMDCFilterConfiguration"
+      "sourceType": "com.everis.ejercicio1.configlogg.Slf4jMDCFilterConfiguration",
+      "defaultValue": "Response_Token"
     }
   ],
   "hints": []

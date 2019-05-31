@@ -28,10 +28,16 @@ public class StudentsClassesPK implements Serializable{
 	 */
 	private static final long serialVersionUID = 1L;
 
+	/**
+	 * Relacion Many to One con Students.
+	 */
 	 @ManyToOne
 	 @JoinColumn(name = "student_id", nullable = false)
 	 private Students students;
 	
+	 /**
+	  * Relacion Many to One con Classes.
+	  */
 	 @ManyToOne
 	 @JoinColumn(name = "class_id", nullable = false)
 	 private Classes classes;

@@ -15,9 +15,11 @@ public interface IClassService {
 
 	//void delete(int id);
 	  
-	Optional<Classes> listId(int id);
+	Classes listId(int id);
 
 	List<Classes> list();
+	
+	Optional<Classes> getAllId(int id);
 
 	public List<Classes> recycleBin(); 
 

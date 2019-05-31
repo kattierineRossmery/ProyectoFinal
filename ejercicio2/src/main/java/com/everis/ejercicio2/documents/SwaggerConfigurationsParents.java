@@ -31,7 +31,7 @@ public class SwaggerConfigurationsParents {
 		  
 		  .select()
 		  
-		  .paths(regex("/api/v1.*"))
+		  .paths(regex("/api/v2.*"))
 		  
 		  .apis(RequestHandlerSelectors.basePackage("com.everis.ejercicio2"))
 		  

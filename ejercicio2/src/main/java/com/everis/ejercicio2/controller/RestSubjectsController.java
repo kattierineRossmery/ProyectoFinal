@@ -137,6 +137,26 @@ public class RestSubjectsController {
 			}
 			
 			 Resource<Object> resource = new Resource<Object>(sub);
+			
+			  
+			  return resource;
+
+	  }
+	  
+	  /**
+	   * Esta función es responsable de listar un registro.
+	   * @param id - id dado por el usuario.
+	   */
+	  @ApiOperation(value = "Listar Class por id")
+	  @GetMapping(value = "/hateoas/{id}", produces = MediaType.APPLICATION_JSON_VALUE)
+	  public Resource<Object> listarSubjectsPorIdHat(@PathVariable("id") Integer id) {
+		  Optional<Subjects> sub = serv.listId(id);
+			if(!sub.isPresent()) {
+				throw new ModeloNotFoundException("ID-" + id);
+				
+			}
+			
+			 Resource<Object> resource = new Resource<Object>(sub);
 			  ControllerLinkBuilder linkto = linkTo(methodOn(this.getClass()).listarSubjectsPorId(id));
 
 			  resource.add(linkto.withRel("links"));

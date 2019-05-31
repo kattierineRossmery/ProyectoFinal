@@ -89,7 +89,7 @@ public class RestClassesController {
 	@PutMapping(produces = MediaType.APPLICATION_JSON_VALUE)
 	public String modificar(@Valid @RequestBody Classes clas) {
 		String mensaje = "";
-		Optional<Classes> obj = serv.listId(clas.getClassId());
+		Optional<Classes> obj = serv.getAllId(clas.getClassId());
 
 		if (obj.isPresent()) {
 			serv.update(clas);
@@ -115,7 +115,7 @@ public class RestClassesController {
 	@ApiOperation(value = "Delete class by id")
 	@DeleteMapping("/{id}")
 	public void eliminar(@PathVariable("id") Integer id) {
-		Optional<Classes> par = serv.listId(id);
+		Optional<Classes> par = serv.getAllId(id);
 		if(par.isPresent()) {
 			serv.softDelete(id);
 		}else {
@@ -132,9 +132,9 @@ public class RestClassesController {
 	  @ApiOperation(value = "Listar Class por id")
 	  @GetMapping(value = "/{id}", produces = MediaType.APPLICATION_JSON_VALUE)
 	  public Resource<Object> listarClassesPorId(@PathVariable("id") Integer id) {
-		  Optional<Classes> clas = serv.listId(id);
+		  Optional<Classes> clas = serv.getAllId(id);
 			if(!clas.isPresent()) {
-				throw new ModeloNotFoundException("ID-" + id);
+				throw new ModeloNotFoundException("ID -" + id);
 				
 			}
 			

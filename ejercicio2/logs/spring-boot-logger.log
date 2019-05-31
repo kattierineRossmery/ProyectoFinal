@@ -1,32 +1,396 @@
-2019-05-29 15:37:56,117 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
-2019-05-29 15:38:10,413 INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio2Application in 19.261 seconds (JVM running for 20.524)
-2019-05-29 15:43:26,024 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
-2019-05-29 15:43:39,411 INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio2Application in 17.7 seconds (JVM running for 18.931)
-2019-05-29 15:53:52,531 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
-2019-05-29 15:54:05,609 INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio2Application in 17.266 seconds (JVM running for 18.557)
-2019-05-29 15:59:15,362 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
-2019-05-29 15:59:28,693 INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio2Application in 17.718 seconds (JVM running for 18.918)
-2019-05-29 16:19:13,576 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
-2019-05-29 16:19:27,536 INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio2Application in 18.229 seconds (JVM running for 19.509)
-2019-05-29 16:23:52,363 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
-2019-05-29 16:24:05,881 INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio2Application in 17.791 seconds (JVM running for 19.062)
-2019-05-29 16:27:07,534 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
-2019-05-29 16:27:20,990 INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio2Application in 18.034 seconds (JVM running for 19.358)
-2019-05-29 16:39:00,805 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
-2019-05-29 16:39:15,982 INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio2Application in 19.685 seconds (JVM running for 22.024)
-2019-05-29 16:40:15,790 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
-2019-05-29 16:40:29,592 INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio2Application in 18.133 seconds (JVM running for 19.429)
-2019-05-29 16:42:49,554 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
-2019-05-29 16:43:02,645 INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio2Application in 17.322 seconds (JVM running for 18.53)
-2019-05-29 16:51:34,108 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
-2019-05-29 16:51:47,477 INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio2Application in 17.566 seconds (JVM running for 18.868)
-2019-05-29 17:13:43,427 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
-2019-05-29 17:13:57,357 INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio2Application in 18.31 seconds (JVM running for 19.82)
-2019-05-29 17:24:00,991 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
-2019-05-29 17:24:13,177 INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio2Application in 16.781 seconds (JVM running for 18.008)
-2019-05-29 17:31:24,640 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
-2019-05-29 17:31:38,170 INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio2Application in 17.761 seconds (JVM running for 19.281)
-2019-05-29 17:39:00,274 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
-2019-05-29 17:39:12,869 INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio2Application in 16.761 seconds (JVM running for 17.937)
-2019-05-29 17:40:29,159 INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
-2019-05-29 17:40:42,493 INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio2Application in 17.675 seconds (JVM running for 18.87)
+2019-05-31 14:03:15,896 |  | INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-31 14:03:23,305 |  | INFO org.springframework.boot.StartupInfoLogger [main] Started ClassesControllerTest in 13.067 seconds (JVM running for 20.069)
+2019-05-31 14:03:23,655 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:03:23,705 | 27750D3FC1B04932AF8EE8543D9D9985 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:03:25,312 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:03:25,316 | A467E3116EC04695A5A21C63D1C5645A | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:03:25,342 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:03:25,344 | 60133F091D9F442BA3A70C5053EB009C | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:03:25,371 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:03:25,371 | D9D1DBFC8BA4497AA3D6875499A50EF1 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:03:25,381 | D9D1DBFC8BA4497AA3D6875499A50EF1 | INFO com.everis.ejercicio2.controller.RestClassesController [main] listado de Clases
+2019-05-31 14:03:25,443 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:03:25,444 | ED9FE19DA1F948F59788D6AE15B76CB8 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:03:25,447 | ED9FE19DA1F948F59788D6AE15B76CB8 | INFO com.everis.ejercicio2.controller.RestClassesController [main] listado de Clases
+2019-05-31 14:03:29,304 |  | INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-31 14:03:32,461 |  | INFO org.springframework.boot.StartupInfoLogger [main] Started SubjectsControllerTest in 6.936 seconds (JVM running for 29.225)
+2019-05-31 14:03:32,471 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:03:32,472 | BCBD709FE76242FB9A0E7FFB3FA4D4FE | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:03:32,495 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:03:32,495 | 9FDF350E93144ECF80108ACACE7F3EBB | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:03:32,520 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:03:32,522 | 67CB115CEC084DC6BB91265E1BF30BA0 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:03:32,535 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:03:32,535 | EB82E13058144A81A22FF7D751C6A381 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:03:32,537 | EB82E13058144A81A22FF7D751C6A381 | INFO com.everis.ejercicio2.controller.RestSubjectsController [main] listado de Clases
+2019-05-31 14:03:32,552 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:03:32,553 | 7AFAA81C87384020A9AA3A4F52EEE300 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:03:32,555 | 7AFAA81C87384020A9AA3A4F52EEE300 | INFO com.everis.ejercicio2.controller.RestSubjectsController [main] listado de Clases
+2019-05-31 14:03:32,565 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:03:32,565 | E5E0C886AA17490DA178C3AAD13AB904 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:03:36,549 |  | INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-31 14:03:39,061 |  | INFO org.springframework.boot.StartupInfoLogger [main] Started TeachersControllerTest in 6.452 seconds (JVM running for 35.826)
+2019-05-31 14:03:39,080 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:03:39,080 | 80A5F27DCEE645E0BA8B54593042708E | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:03:39,108 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:03:39,108 | 66DC031F5CDB42199A4DB8C2B66DD3F6 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:03:39,128 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:03:39,128 | 8C3728A83F0E4BFEAAE0649C20505BF0 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:03:39,150 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:03:39,150 | F8C0213A690A427D8A07EA58F00B94B4 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:03:39,161 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:03:39,163 | 57634D5D5C894131BCADEAAEB91CE5DD | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:03:39,167 | 57634D5D5C894131BCADEAAEB91CE5DD | INFO com.everis.ejercicio2.controller.RestTeachersController [main] listado de Clases
+2019-05-31 14:03:39,179 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:03:39,180 | 083489F69BB3424C8B8BF94244E2729A | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:03:39,181 | 083489F69BB3424C8B8BF94244E2729A | INFO com.everis.ejercicio2.controller.RestTeachersController [main] listado de Clases
+2019-05-31 14:05:50,014 |  | INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-31 14:06:00,367 |  | INFO org.springframework.boot.StartupInfoLogger [main] Started ClassesControllerTest in 18.4 seconds (JVM running for 23.26)
+2019-05-31 14:06:00,661 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:06:00,664 | DC60386029624E0E9E4DE5672444263F | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:06:01,712 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:06:01,716 | F777020B8EE44AB2B792BA1B4227CBAE | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:06:01,779 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:06:01,780 | B3D6E0A7A32A4DF2B176127441DCAB3D | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:06:01,798 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:06:01,813 | 827A32B44A68400F80D2010AF5918E61 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:06:01,815 | 827A32B44A68400F80D2010AF5918E61 | INFO com.everis.ejercicio2.controller.RestClassesController [main] listado de Clases
+2019-05-31 14:06:01,865 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:06:01,908 | C36B6B63D8C64F73AAD141FFB1E722F1 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:06:01,913 | C36B6B63D8C64F73AAD141FFB1E722F1 | INFO com.everis.ejercicio2.controller.RestClassesController [main] listado de Clases
+2019-05-31 14:06:07,178 |  | INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-31 14:06:11,118 |  | INFO org.springframework.boot.StartupInfoLogger [main] Started SubjectsControllerTest in 9.15 seconds (JVM running for 34.011)
+2019-05-31 14:06:11,168 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:06:11,170 | CD854A0F84C54A2B89D4707E6BE0C30C | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:06:11,200 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:06:11,204 | E41BBCC169D8414C990CC5D4F732A761 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:06:11,280 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:06:11,283 | 6BCD2AACBCEC461FAB47A230D1FCA9CF | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:06:11,295 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:06:11,296 | 075D4BF76E9647379D5A3F21BE47BC03 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:06:11,298 | 075D4BF76E9647379D5A3F21BE47BC03 | INFO com.everis.ejercicio2.controller.RestSubjectsController [main] listado de Clases
+2019-05-31 14:06:11,340 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:06:11,343 | C41D46D219CB442F82358955AE9CFD86 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:06:11,346 | C41D46D219CB442F82358955AE9CFD86 | INFO com.everis.ejercicio2.controller.RestSubjectsController [main] listado de Clases
+2019-05-31 14:06:11,358 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:06:11,359 | DD2D16F06097498487E10567C8E33B8D | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:06:16,449 |  | INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-31 14:06:20,087 |  | INFO org.springframework.boot.StartupInfoLogger [main] Started TeachersControllerTest in 8.67 seconds (JVM running for 42.98)
+2019-05-31 14:06:20,119 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:06:20,119 | 686AB156DB5E4C5E80608E0BDA2F0888 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:06:20,193 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:06:20,194 | 42CA8C59039A4D6A9A61573A22221686 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:06:20,246 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:06:20,247 | D7B3129B32194C09B0A246688136DB09 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:06:20,284 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:06:20,285 | 57B8B02FDF674D97A0742233D755D4D2 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:06:20,306 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:06:20,307 | 841A9F49C82844CBBF7D8B275E80EA63 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:06:20,313 | 841A9F49C82844CBBF7D8B275E80EA63 | INFO com.everis.ejercicio2.controller.RestTeachersController [main] listado de Clases
+2019-05-31 14:06:20,352 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:06:20,352 | 42D41E5B8453493DB113AA89151D118B | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:06:20,357 | 42D41E5B8453493DB113AA89151D118B | INFO com.everis.ejercicio2.controller.RestTeachersController [main] listado de Clases
+2019-05-31 14:10:42,954 |  | INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-31 14:10:47,639 |  | INFO org.springframework.boot.StartupInfoLogger [main] Started SubjectsControllerTest in 9.53 seconds (JVM running for 14.64)
+2019-05-31 14:11:38,069 |  | INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-31 14:11:42,860 |  | INFO org.springframework.boot.StartupInfoLogger [main] Started TeachersControllerTest in 9.921 seconds (JVM running for 12.018)
+2019-05-31 14:12:37,095 |  | INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-31 14:12:43,492 |  | INFO org.springframework.boot.StartupInfoLogger [main] Started ClassesControllerTest in 11.873 seconds (JVM running for 14.115)
+2019-05-31 14:12:44,380 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:12:44,382 | 8A2F51C2C3E640B19E67B5E16B2A9745 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:12:44,709 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:12:44,710 | 2945F08619AD4DF483D07C3D30743F13 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:12:44,738 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:12:44,741 | 088C192A1C5E415CBF1627126C203FE5 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:12:44,758 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:12:44,758 | 37ACC8563FEC43EC9783FDF9981D59A1 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:12:44,760 | 37ACC8563FEC43EC9783FDF9981D59A1 | INFO com.everis.ejercicio2.controller.RestClassesController [main] listado de Clases
+2019-05-31 14:12:44,833 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:12:44,835 | 3ADC55F1F63145F1A825B1AA00031C0F | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:12:44,842 | 3ADC55F1F63145F1A825B1AA00031C0F | INFO com.everis.ejercicio2.controller.RestClassesController [main] listado de Clases
+2019-05-31 14:12:48,966 |  | INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-31 14:12:51,835 |  | INFO org.springframework.boot.StartupInfoLogger [main] Started SubjectsControllerTest in 6.927 seconds (JVM running for 22.458)
+2019-05-31 14:12:51,849 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:12:51,851 | 4480B180736D481A93C0A78D8E71DD86 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:12:51,877 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:12:51,887 | F1E2B22672854B7B82F8B2A6CA5B1AC9 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:12:51,905 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:12:51,906 | 407ADE2A617E483ABFC8B873E77CB6E4 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:12:51,919 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:12:51,921 | C50A66E6311F4CE5A10CA5B3AB63975B | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:12:51,923 | C50A66E6311F4CE5A10CA5B3AB63975B | INFO com.everis.ejercicio2.controller.RestSubjectsController [main] listado de Clases
+2019-05-31 14:12:51,939 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:12:51,947 | 4949AC54F2304F828638D9715B46C043 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:12:51,949 | 4949AC54F2304F828638D9715B46C043 | INFO com.everis.ejercicio2.controller.RestSubjectsController [main] listado de Clases
+2019-05-31 14:12:51,962 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:12:51,963 | 92530F9075034615A8A15FC660D165BE | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:12:56,389 |  | INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-31 14:12:58,814 |  | INFO org.springframework.boot.StartupInfoLogger [main] Started TeachersControllerTest in 6.797 seconds (JVM running for 29.437)
+2019-05-31 14:12:58,825 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:12:58,825 | CA3E599C5A7046A285F4A28031027600 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:12:58,894 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:12:58,894 | 1FB56DCA1F234BFEACE0EFB0F4CE3F17 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:12:58,911 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:12:58,914 | 7920E379FFE347768C872EB30EBE691F | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:12:58,934 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:12:58,934 | 81EE6B9B41E14E9380A71CC4E3503B0E | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:12:58,946 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:12:58,947 | 7F021DA7FF5B474DB5CBA25EA13B9588 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:12:58,949 | 7F021DA7FF5B474DB5CBA25EA13B9588 | INFO com.everis.ejercicio2.controller.RestTeachersController [main] listado de Clases
+2019-05-31 14:12:58,968 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:12:58,968 | 60567B4D9EF84587AC294DACFC14D677 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:12:58,969 | 60567B4D9EF84587AC294DACFC14D677 | INFO com.everis.ejercicio2.controller.RestTeachersController [main] listado de Clases
+2019-05-31 14:14:05,270 |  | INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-31 14:14:19,729 |  | INFO org.springframework.boot.StartupInfoLogger [main] Started ClassesControllerTest in 23.879 seconds (JVM running for 29.528)
+2019-05-31 14:14:25,219 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:14:25,221 | 6F435C7676A74D0D92E90377105193C4 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:14:26,740 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:14:26,740 | 6840A8236A404E67AE7DAD63513EDB19 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:14:26,768 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:14:26,769 | 4F9EA6542914405BB8A2A6B3B4BD23FE | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:14:26,794 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:14:26,795 | 3ECDEC13312A4B5D8AEF69C7BD3C6E6E | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:14:26,797 | 3ECDEC13312A4B5D8AEF69C7BD3C6E6E | INFO com.everis.ejercicio2.controller.RestClassesController [main] listado de Clases
+2019-05-31 14:14:26,851 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:14:26,852 | DBF7A7276CB74A53BC134FF3363B5012 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:14:26,859 | DBF7A7276CB74A53BC134FF3363B5012 | INFO com.everis.ejercicio2.controller.RestClassesController [main] listado de Clases
+2019-05-31 14:14:30,652 |  | INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-31 14:14:33,648 |  | INFO org.springframework.boot.StartupInfoLogger [main] Started SubjectsControllerTest in 6.722 seconds (JVM running for 43.446)
+2019-05-31 14:14:33,662 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:14:33,662 | 0AD28637BAC44F2A91567F17399D4221 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:14:33,703 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:14:33,703 | E67758824F2D4BDCBB5BEA30DAFFB21C | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:14:33,735 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:14:33,736 | EEEFF38A2ED84F47BD8451051D6B9DD3 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:14:33,758 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:14:33,760 | 41545DE212054F5995C7AEC847077996 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:14:33,764 | 41545DE212054F5995C7AEC847077996 | INFO com.everis.ejercicio2.controller.RestSubjectsController [main] listado de Clases
+2019-05-31 14:14:33,784 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:14:33,785 | 4EE4C5582B1A48EE848EB23A6C2C6465 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:14:33,786 | 4EE4C5582B1A48EE848EB23A6C2C6465 | INFO com.everis.ejercicio2.controller.RestSubjectsController [main] listado de Clases
+2019-05-31 14:14:33,819 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:14:33,822 | AF607BD1B24D4743A645A5EB4BB38EE6 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:14:37,543 |  | INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-31 14:14:40,388 |  | INFO org.springframework.boot.StartupInfoLogger [main] Started TeachersControllerTest in 6.483 seconds (JVM running for 50.187)
+2019-05-31 14:14:40,398 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:14:40,398 | 53BD229A22094704B038DBC27D47E991 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:14:40,468 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:14:40,469 | 4DDD6073423D417891B22042E1278F63 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:14:40,485 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:14:40,485 | 534A41AFC44B471FAEF12332FE5D7899 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:14:40,503 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:14:40,504 | 46EC08736CA3463AA43521D4D87C0AF6 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:14:40,524 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:14:40,525 | 187C7E0E40BB4156A67854DE3BBC6937 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:14:40,528 | 187C7E0E40BB4156A67854DE3BBC6937 | INFO com.everis.ejercicio2.controller.RestTeachersController [main] listado de Clases
+2019-05-31 14:14:40,549 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] SÌ est· vacÌo.
+2019-05-31 14:14:40,549 | 6F7503B3E6AB4A6FAFB3C8A374377045 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [main] responseHeader no est· vacÌo.
+2019-05-31 14:14:40,551 | 6F7503B3E6AB4A6FAFB3C8A374377045 | INFO com.everis.ejercicio2.controller.RestTeachersController [main] listado de Clases
+2019-05-31 14:29:08,731 |  | INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-31 14:29:25,891 |  | DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'slf4jMdcFilter' configured for use
+2019-05-31 14:30:19,119 |  | INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio2Application in 77.273 seconds (JVM running for 79.806)
+2019-05-31 14:30:43,383 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-1] S√≠ est√° vac√≠o.
+2019-05-31 14:30:43,384 | BD503B0B53D34A05AFC8B3CC9C1AB829 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-1] responseHeader no est√° vac√≠o.
+2019-05-31 14:31:06,569 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-4] S√≠ est√° vac√≠o.
+2019-05-31 14:31:06,570 | 7C0E61B1A07B45D5A5E01ACBBB8722D8 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-4] responseHeader no est√° vac√≠o.
+2019-05-31 14:34:01,849 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-8] S√≠ est√° vac√≠o.
+2019-05-31 14:34:01,851 | 3E40D567A7144A5F966B1F1D73FD2F3B | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-8] responseHeader no est√° vac√≠o.
+2019-05-31 14:34:04,299 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-9] S√≠ est√° vac√≠o.
+2019-05-31 14:34:04,299 | 24067CE61F1F42AEAEF244E90F87FADD | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-9] responseHeader no est√° vac√≠o.
+2019-05-31 14:34:16,645 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-1] S√≠ est√° vac√≠o.
+2019-05-31 14:34:16,646 | BC117147D2AB4E4E8B7FF6321D9C2E16 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-1] responseHeader no est√° vac√≠o.
+2019-05-31 14:34:30,331 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-5] S√≠ est√° vac√≠o.
+2019-05-31 14:34:30,332 | 084456F755524C8387A1104E2FC6CEF8 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-5] responseHeader no est√° vac√≠o.
+2019-05-31 14:46:54,965 |  | INFO org.springframework.boot.SpringApplication [main] No active profile set, falling back to default profiles: default
+2019-05-31 14:47:05,560 |  | DEBUG org.springframework.web.filter.GenericFilterBean [main] Filter 'slf4jMdcFilter' configured for use
+2019-05-31 14:47:18,205 |  | INFO org.springframework.boot.StartupInfoLogger [main] Started Ejercicio2Application in 29.029 seconds (JVM running for 33.853)
+2019-05-31 14:47:35,007 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-1] S√≠ est√° vac√≠o.
+2019-05-31 14:47:35,008 | D6EFFAACE1A546F7865D6E46982D36A5 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-1] responseHeader no est√° vac√≠o.
+2019-05-31 14:47:42,756 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-4] S√≠ est√° vac√≠o.
+2019-05-31 14:47:42,757 | 04A1FE5731FF45559B8292E9C15F7184 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-4] responseHeader no est√° vac√≠o.
+2019-05-31 14:47:51,874 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-7] S√≠ est√° vac√≠o.
+2019-05-31 14:47:51,876 | AC86DEACF8AE4A17A47551FF4D9A676E | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-7] responseHeader no est√° vac√≠o.
+2019-05-31 14:49:33,405 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-10] S√≠ est√° vac√≠o.
+2019-05-31 14:49:33,406 | 0B625B490E204B89AAB2B8FE21350C90 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-10] responseHeader no est√° vac√≠o.
+2019-05-31 14:49:36,533 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-3] S√≠ est√° vac√≠o.
+2019-05-31 14:49:36,534 | 6B3D6CDC6C4340EEB9FA3F4B30A97E0D | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-3] responseHeader no est√° vac√≠o.
+2019-05-31 14:49:37,288 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-4] S√≠ est√° vac√≠o.
+2019-05-31 14:49:37,288 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-5] S√≠ est√° vac√≠o.
+2019-05-31 14:49:37,288 | 9236E7D3535C4973ADE997061D8D55CB | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-5] responseHeader no est√° vac√≠o.
+2019-05-31 14:49:37,288 | B158CE538DF54397BF330065D7D8561C | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-4] responseHeader no est√° vac√≠o.
+2019-05-31 14:49:37,289 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-6] S√≠ est√° vac√≠o.
+2019-05-31 14:49:37,289 | A8B7E1292B8D435B8291BFF673B06A60 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-6] responseHeader no est√° vac√≠o.
+2019-05-31 14:49:37,897 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-7] S√≠ est√° vac√≠o.
+2019-05-31 14:49:37,899 | 16AD37F6BD744F368AEBBFCE2374FC93 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-7] responseHeader no est√° vac√≠o.
+2019-05-31 14:49:37,899 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-9] S√≠ est√° vac√≠o.
+2019-05-31 14:49:37,899 | EA811376CCD64FC8A7D36B770D991005 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-9] responseHeader no est√° vac√≠o.
+2019-05-31 14:49:46,287 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-4] S√≠ est√° vac√≠o.
+2019-05-31 14:49:46,288 | 492C12FFC48B4C1C875FB79F9D6675DE | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-4] responseHeader no est√° vac√≠o.
+2019-05-31 14:49:47,888 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-5] S√≠ est√° vac√≠o.
+2019-05-31 14:49:47,889 | 816E2A5F812D440280B12B98D0AF7C49 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-5] responseHeader no est√° vac√≠o.
+2019-05-31 14:49:48,506 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-8] S√≠ est√° vac√≠o.
+2019-05-31 14:49:48,506 | 1C2301588B3842D7AA38186F7F93ED63 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-8] responseHeader no est√° vac√≠o.
+2019-05-31 14:49:48,555 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-10] S√≠ est√° vac√≠o.
+2019-05-31 14:49:48,555 | 556BE546740944649C752B664A39C76A | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-10] responseHeader no est√° vac√≠o.
+2019-05-31 14:49:48,692 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-9] S√≠ est√° vac√≠o.
+2019-05-31 14:49:48,693 | 9CED2E566E6A4F07A907EE61E215FACB | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-9] responseHeader no est√° vac√≠o.
+2019-05-31 14:49:48,694 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-7] S√≠ est√° vac√≠o.
+2019-05-31 14:49:48,694 | E7FD3C24BA184B2CBF935DC071329B61 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-7] responseHeader no est√° vac√≠o.
+2019-05-31 14:49:49,384 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-3] S√≠ est√° vac√≠o.
+2019-05-31 14:49:49,384 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-2] S√≠ est√° vac√≠o.
+2019-05-31 14:49:49,385 | 8CD35716431046D6B0CC1691EEE2CB00 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-2] responseHeader no est√° vac√≠o.
+2019-05-31 14:49:49,385 | 115A55BEB5924E5D9CBED8405B4A16BE | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-3] responseHeader no est√° vac√≠o.
+2019-05-31 14:49:49,540 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-4] S√≠ est√° vac√≠o.
+2019-05-31 14:49:49,540 | 1DE92335461D4E33B464F163FB3988A2 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-4] responseHeader no est√° vac√≠o.
+2019-05-31 14:49:50,585 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-8] S√≠ est√° vac√≠o.
+2019-05-31 14:49:50,585 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-5] S√≠ est√° vac√≠o.
+2019-05-31 14:49:50,586 | 2CBD9C1212424EEA8A01367218B2E413 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-8] responseHeader no est√° vac√≠o.
+2019-05-31 14:49:50,586 | 52F5B654630B441CAD408BED3C48B47D | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-5] responseHeader no est√° vac√≠o.
+2019-05-31 14:50:17,779 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-1] S√≠ est√° vac√≠o.
+2019-05-31 14:50:17,779 | 5375FCE373A44228A65937928305AAF6 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-1] responseHeader no est√° vac√≠o.
+2019-05-31 14:52:32,476 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-2] S√≠ est√° vac√≠o.
+2019-05-31 14:52:32,477 | 93CFA334DE2B4BE49ADDEA033D648963 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-2] responseHeader no est√° vac√≠o.
+2019-05-31 14:55:07,023 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-7] S√≠ est√° vac√≠o.
+2019-05-31 14:55:07,023 | B063663BA3504E258EB5E76F511FEA76 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-7] responseHeader no est√° vac√≠o.
+2019-05-31 14:55:35,978 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-9] S√≠ est√° vac√≠o.
+2019-05-31 14:55:35,979 | 0C1816E396C54664887B1921417811AF | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-9] responseHeader no est√° vac√≠o.
+2019-05-31 14:55:42,751 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-10] S√≠ est√° vac√≠o.
+2019-05-31 14:55:42,752 | 09A5E8455E074289B468098AE79B01E5 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-10] responseHeader no est√° vac√≠o.
+2019-05-31 14:55:59,189 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-1] S√≠ est√° vac√≠o.
+2019-05-31 14:55:59,190 | AA6F10BE01C94B68A5340A855BEEA7C9 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-1] responseHeader no est√° vac√≠o.
+2019-05-31 14:55:59,191 | AA6F10BE01C94B68A5340A855BEEA7C9 | INFO com.everis.ejercicio2.controller.RestClassesController [http-nio-8081-exec-1] listado de Clases
+2019-05-31 14:56:09,989 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-6] S√≠ est√° vac√≠o.
+2019-05-31 14:56:09,990 | 7F30DC6761424D67BF903DE6831D9283 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-6] responseHeader no est√° vac√≠o.
+2019-05-31 14:56:19,140 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-3] S√≠ est√° vac√≠o.
+2019-05-31 14:56:19,140 | 491B9A5EA7C7490AAC419E7862823489 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-3] responseHeader no est√° vac√≠o.
+2019-05-31 14:56:57,398 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-4] S√≠ est√° vac√≠o.
+2019-05-31 14:56:57,398 | E9DA0A0C13E74E5099589EAF687FAAB5 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-4] responseHeader no est√° vac√≠o.
+2019-05-31 14:56:57,401 | E9DA0A0C13E74E5099589EAF687FAAB5 | INFO com.everis.ejercicio2.controller.RestClassesController [http-nio-8081-exec-4] listado de Clases
+2019-05-31 14:57:30,239 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-2] S√≠ est√° vac√≠o.
+2019-05-31 14:57:30,240 | FA40E90DF154484E8370F7A87E08000C | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-2] responseHeader no est√° vac√≠o.
+2019-05-31 14:57:30,241 | FA40E90DF154484E8370F7A87E08000C | INFO com.everis.ejercicio2.controller.RestSubjectsController [http-nio-8081-exec-2] listado de Clases
+2019-05-31 14:57:52,449 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-8] S√≠ est√° vac√≠o.
+2019-05-31 14:57:52,450 | 86F6C961E561454E9B0C42719294140B | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-8] responseHeader no est√° vac√≠o.
+2019-05-31 14:57:52,452 | 86F6C961E561454E9B0C42719294140B | INFO com.everis.ejercicio2.controller.RestSubjectsController [http-nio-8081-exec-8] listado de Clases
+2019-05-31 14:58:01,056 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-5] S√≠ est√° vac√≠o.
+2019-05-31 14:58:01,057 | 35D40208901F4BF8AA44ECC1F730390D | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-5] responseHeader no est√° vac√≠o.
+2019-05-31 14:58:01,370 | 35D40208901F4BF8AA44ECC1F730390D | INFO com.everis.ejercicio2.controller.RestSubjectsController [http-nio-8081-exec-5] Se creo con exito a Matematica II
+2019-05-31 14:58:07,188 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-7] S√≠ est√° vac√≠o.
+2019-05-31 14:58:07,189 | 9AE7098980674CEF913885196F71BE85 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-7] responseHeader no est√° vac√≠o.
+2019-05-31 14:58:07,190 | 9AE7098980674CEF913885196F71BE85 | INFO com.everis.ejercicio2.controller.RestSubjectsController [http-nio-8081-exec-7] listado de Clases
+2019-05-31 15:08:42,445 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-1] S√≠ est√° vac√≠o.
+2019-05-31 15:08:42,445 | DF2A2B94053B4EE0AF40D68471ACEECF | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-1] responseHeader no est√° vac√≠o.
+2019-05-31 15:08:48,725 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-6] S√≠ est√° vac√≠o.
+2019-05-31 15:08:48,726 | EBF4D10DED1648D7B8A982791E9C179D | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-6] responseHeader no est√° vac√≠o.
+2019-05-31 15:08:48,727 | EBF4D10DED1648D7B8A982791E9C179D | INFO com.everis.ejercicio2.controller.RestSubjectsController [http-nio-8081-exec-6] listado de Clases
+2019-05-31 15:10:46,562 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-4] S√≠ est√° vac√≠o.
+2019-05-31 15:10:46,563 | E13F8CCB3E5E4140B1EA7985428FD557 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-4] responseHeader no est√° vac√≠o.
+2019-05-31 15:10:46,564 | E13F8CCB3E5E4140B1EA7985428FD557 | INFO com.everis.ejercicio2.controller.RestSubjectsController [http-nio-8081-exec-4] listado de Clases
+2019-05-31 15:41:58,573 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-8] S√≠ est√° vac√≠o.
+2019-05-31 15:41:58,645 | AF5D9C2E63864D8D914ACCD436F78DB1 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-8] responseHeader no est√° vac√≠o.
+2019-05-31 15:42:14,536 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-7] S√≠ est√° vac√≠o.
+2019-05-31 15:42:14,536 | E383671D2EAD424BBB2C4E109B77B782 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-7] responseHeader no est√° vac√≠o.
+2019-05-31 15:42:30,422 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-10] S√≠ est√° vac√≠o.
+2019-05-31 15:42:30,423 | 44AEAA9449C3481B9DCCC41EC1B75286 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-10] responseHeader no est√° vac√≠o.
+2019-05-31 15:59:26,035 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-6] S√≠ est√° vac√≠o.
+2019-05-31 15:59:26,036 | 0FB83717CFC54E87BF8F3340A53FF7CC | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-6] responseHeader no est√° vac√≠o.
+2019-05-31 16:00:54,095 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-4] S√≠ est√° vac√≠o.
+2019-05-31 16:00:54,096 | 5C551B964D28435EB3F2B9556F765375 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-4] responseHeader no est√° vac√≠o.
+2019-05-31 16:01:04,719 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-8] S√≠ est√° vac√≠o.
+2019-05-31 16:01:04,779 | 46648876B3554A46A6BD73E8201C7707 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-8] responseHeader no est√° vac√≠o.
+2019-05-31 16:01:08,739 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-7] S√≠ est√° vac√≠o.
+2019-05-31 16:01:08,740 | A6F7C637043547CC8F786C54085F9F14 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-7] responseHeader no est√° vac√≠o.
+2019-05-31 16:01:08,865 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-9] S√≠ est√° vac√≠o.
+2019-05-31 16:01:08,866 | A9D68572E086485EAA286EC5F8BA47EB | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-9] responseHeader no est√° vac√≠o.
+2019-05-31 16:01:27,730 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-6] S√≠ est√° vac√≠o.
+2019-05-31 16:01:27,739 | 9D86DD9B2AD14A0A9240819F1F98FD5F | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-6] responseHeader no est√° vac√≠o.
+2019-05-31 16:01:28,058 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-4] S√≠ est√° vac√≠o.
+2019-05-31 16:01:28,063 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-5] S√≠ est√° vac√≠o.
+2019-05-31 16:01:28,067 | A6347C9A4D6D44C4B89D3769746E1C3A | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-5] responseHeader no est√° vac√≠o.
+2019-05-31 16:01:28,067 | 108E8F62B77F46E7A0FE247A75F3E2FF | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-4] responseHeader no est√° vac√≠o.
+2019-05-31 16:01:28,115 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-2] S√≠ est√° vac√≠o.
+2019-05-31 16:01:28,115 | 4F2D3654F53A418CA959172C888CC2AD | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-2] responseHeader no est√° vac√≠o.
+2019-05-31 16:01:28,122 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-8] S√≠ est√° vac√≠o.
+2019-05-31 16:01:28,123 | F4BE229E59644610B3E6074BD4707E01 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-8] responseHeader no est√° vac√≠o.
+2019-05-31 16:01:28,198 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-3] S√≠ est√° vac√≠o.
+2019-05-31 16:01:28,198 | 1B856819EF984188BE0E41CDDB142E64 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-3] responseHeader no est√° vac√≠o.
+2019-05-31 16:01:28,304 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-9] S√≠ est√° vac√≠o.
+2019-05-31 16:01:28,304 | 014A96B38BD04EC4B2DF21BF7268CBDF | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-9] responseHeader no est√° vac√≠o.
+2019-05-31 16:01:28,827 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-1] S√≠ est√° vac√≠o.
+2019-05-31 16:01:28,828 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-3] S√≠ est√° vac√≠o.
+2019-05-31 16:01:28,828 | E86EA60960774614B49AF9244506614E | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-1] responseHeader no est√° vac√≠o.
+2019-05-31 16:01:28,828 | B451E775BF324012B9FB97CA931B5229 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-3] responseHeader no est√° vac√≠o.
+2019-05-31 16:01:28,827 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-7] S√≠ est√° vac√≠o.
+2019-05-31 16:01:28,829 | 593364FFD3A243F49F332B2D2EB1D99D | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-7] responseHeader no est√° vac√≠o.
+2019-05-31 16:01:28,909 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-10] S√≠ est√° vac√≠o.
+2019-05-31 16:01:28,909 | DDB085E237594D2CAB8A3B1CFCFB9AE5 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-10] responseHeader no est√° vac√≠o.
+2019-05-31 16:01:29,728 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-6] S√≠ est√° vac√≠o.
+2019-05-31 16:01:29,729 | 21837636AD3E4D2B8EEEA4D96D5F2BE6 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-6] responseHeader no est√° vac√≠o.
+2019-05-31 16:01:29,730 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-4] S√≠ est√° vac√≠o.
+2019-05-31 16:01:29,751 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-8] S√≠ est√° vac√≠o.
+2019-05-31 16:01:29,751 | E00AF62339544108B1DE50CB955CF956 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-8] responseHeader no est√° vac√≠o.
+2019-05-31 16:01:29,731 | 9578F7C0096F468DB57750C1D6FCD346 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-4] responseHeader no est√° vac√≠o.
+2019-05-31 16:01:29,846 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-5] S√≠ est√° vac√≠o.
+2019-05-31 16:01:29,846 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-9] S√≠ est√° vac√≠o.
+2019-05-31 16:01:29,847 | 21B94697B2AD4B2094F504FF8FD5A22F | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-5] responseHeader no est√° vac√≠o.
+2019-05-31 16:01:29,847 | 6D0E2277E89748AD898CB3B6D3EB5699 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-9] responseHeader no est√° vac√≠o.
+2019-05-31 16:01:30,468 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-2] S√≠ est√° vac√≠o.
+2019-05-31 16:01:30,468 | 158A2F48F1F44C7589ABB76125352038 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-2] responseHeader no est√° vac√≠o.
+2019-05-31 16:01:30,474 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-1] S√≠ est√° vac√≠o.
+2019-05-31 16:01:30,474 | 98233794B6A544E2A28AF186B2071EB8 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-1] responseHeader no est√° vac√≠o.
+2019-05-31 16:01:31,463 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-7] S√≠ est√° vac√≠o.
+2019-05-31 16:01:31,463 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-3] S√≠ est√° vac√≠o.
+2019-05-31 16:01:31,492 | C0EF4C2BF3094C99837DF909CA1C8B8E | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-7] responseHeader no est√° vac√≠o.
+2019-05-31 16:01:31,492 | C0C74F491B114A3E8889D40F2980A36A | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-3] responseHeader no est√° vac√≠o.
+2019-05-31 16:01:56,188 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-8] S√≠ est√° vac√≠o.
+2019-05-31 16:01:56,189 | 4A1DF1BE34F8445A9204659CB3455DA8 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-8] responseHeader no est√° vac√≠o.
+2019-05-31 16:02:04,701 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-9] S√≠ est√° vac√≠o.
+2019-05-31 16:02:04,702 | 37CDAE4EE77849D2830CB579FE163B40 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-9] responseHeader no est√° vac√≠o.
+2019-05-31 16:02:05,315 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-10] S√≠ est√° vac√≠o.
+2019-05-31 16:02:05,316 | 6D97AC323A85464487715C514348388F | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-10] responseHeader no est√° vac√≠o.
+2019-05-31 16:11:14,260 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-4] S√≠ est√° vac√≠o.
+2019-05-31 16:11:14,319 | 1EBD4D71E37E41A79BF1B1327BC04E89 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-4] responseHeader no est√° vac√≠o.
+2019-05-31 16:11:28,347 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-9] S√≠ est√° vac√≠o.
+2019-05-31 16:11:28,349 | FB7C251ACA374818BE70C0BA574B4B18 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-9] responseHeader no est√° vac√≠o.
+2019-05-31 16:11:54,142 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-10] S√≠ est√° vac√≠o.
+2019-05-31 16:11:54,142 | 2E3130F88C8D48F687A2C7E765A57195 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-10] responseHeader no est√° vac√≠o.
+2019-05-31 16:13:41,952 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-5] S√≠ est√° vac√≠o.
+2019-05-31 16:13:41,953 | 458638EE22EE4060842F59B51F62A228 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-5] responseHeader no est√° vac√≠o.
+2019-05-31 16:15:30,100 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-9] S√≠ est√° vac√≠o.
+2019-05-31 16:15:30,102 | 1DA06F1033884B628875EB948E76619C | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-9] responseHeader no est√° vac√≠o.
+2019-05-31 16:15:32,433 | 1DA06F1033884B628875EB948E76619C | INFO com.everis.ejercicio2.controller.RestClassStudentsController [http-nio-8081-exec-9] clase no  es nulo
+2019-05-31 16:15:49,892 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-10] S√≠ est√° vac√≠o.
+2019-05-31 16:15:49,893 | 829A1362213A44B8B3BE03DD95B34E52 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-10] responseHeader no est√° vac√≠o.
+2019-05-31 16:15:50,170 | 829A1362213A44B8B3BE03DD95B34E52 | INFO com.everis.ejercicio2.controller.RestClassStudentsController [http-nio-8081-exec-10] clase no  es nulo
+2019-05-31 16:16:36,769 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-6] S√≠ est√° vac√≠o.
+2019-05-31 16:16:36,795 | D727D4114F47480F82960DD5C75F0813 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-6] responseHeader no est√° vac√≠o.
+2019-05-31 16:16:37,024 | D727D4114F47480F82960DD5C75F0813 | INFO com.everis.ejercicio2.controller.RestClassStudentsController [http-nio-8081-exec-6] clase no  es nulo
+2019-05-31 16:17:20,271 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-5] S√≠ est√° vac√≠o.
+2019-05-31 16:17:20,271 | 6F636FF16B3B44309EC1596D01B97068 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-5] responseHeader no est√° vac√≠o.
+2019-05-31 16:17:20,504 | 6F636FF16B3B44309EC1596D01B97068 | INFO com.everis.ejercicio2.controller.RestClassStudentsController [http-nio-8081-exec-5] clase no  es nulo
+2019-05-31 16:19:40,445 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-4] S√≠ est√° vac√≠o.
+2019-05-31 16:19:40,445 | 1F3CBFC72D5C4E479061090006536107 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-4] responseHeader no est√° vac√≠o.
+2019-05-31 16:21:36,128 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-6] S√≠ est√° vac√≠o.
+2019-05-31 16:21:36,129 | 37879AE6B21B4408B3E62556AB57CAB1 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-6] responseHeader no est√° vac√≠o.
+2019-05-31 16:21:36,133 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-5] S√≠ est√° vac√≠o.
+2019-05-31 16:21:36,133 | 43363569B3244786871D80212CF272D2 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-5] responseHeader no est√° vac√≠o.
+2019-05-31 16:32:10,687 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-4] S√≠ est√° vac√≠o.
+2019-05-31 16:32:10,689 | 93728F91242045F9AA1A45C67938CAD8 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-4] responseHeader no est√° vac√≠o.
+2019-05-31 16:32:10,702 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-9] S√≠ est√° vac√≠o.
+2019-05-31 16:32:10,703 | FAF045450BED4AD4B7F392A66B37A657 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-9] responseHeader no est√° vac√≠o.
+2019-05-31 16:55:41,514 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-7] S√≠ est√° vac√≠o.
+2019-05-31 16:55:41,514 | 47A5D0280EC042438666DDADA80F58AA | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-7] responseHeader no est√° vac√≠o.
+2019-05-31 16:55:41,532 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-10] S√≠ est√° vac√≠o.
+2019-05-31 16:55:41,533 | 114F6F10C12949659828AC02A582F753 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-10] responseHeader no est√° vac√≠o.
+2019-05-31 16:57:33,023 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-1] S√≠ est√° vac√≠o.
+2019-05-31 16:57:33,023 | 86616E72430B4513883EB125DFC1D599 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-1] responseHeader no est√° vac√≠o.
+2019-05-31 16:57:33,063 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-8] S√≠ est√° vac√≠o.
+2019-05-31 16:57:33,064 | 83A467B2045C4B29A05307A1986D7C79 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-8] responseHeader no est√° vac√≠o.
+2019-05-31 17:12:30,468 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-5] S√≠ est√° vac√≠o.
+2019-05-31 17:12:30,469 | A81DFAB58E0B41C7965F26BBDBAB9A41 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-5] responseHeader no est√° vac√≠o.
+2019-05-31 17:12:30,473 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-6] S√≠ est√° vac√≠o.
+2019-05-31 17:12:30,474 | 160644C7903C4E60A4F84255E16FE90F | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-6] responseHeader no est√° vac√≠o.
+2019-05-31 17:23:29,695 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-9] S√≠ est√° vac√≠o.
+2019-05-31 17:23:29,698 | AF1943EF18EC43469B047662E93034CD | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-9] responseHeader no est√° vac√≠o.
+2019-05-31 17:23:29,723 |  | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-4] S√≠ est√° vac√≠o.
+2019-05-31 17:23:29,724 | F0ACD678B0794A578787705407752190 | INFO com.everis.ejercicio2.configlogg.Slf4jMdcFilter [http-nio-8081-exec-4] responseHeader no est√° vac√≠o.

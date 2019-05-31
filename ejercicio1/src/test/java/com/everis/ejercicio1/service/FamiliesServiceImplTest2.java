@@ -17,7 +17,7 @@ import com.everis.ejercicio1.models.Families;
 import com.everis.ejercicio1.models.Parents;
 import com.everis.ejercicio1.repository.IFamiliesDAO;
 
-@RunWith(MockitoJUnitRunner.class)
+@RunWith(MockitoJUnitRunner.class) 
 public class FamiliesServiceImplTest2 {
 
 	@InjectMocks

@@ -62,7 +62,7 @@
     </root>
      
     <!-- LOG "com.exerciseone.*" at TRACE level -->
-    <logger name="com.everis.ejercicio1" level="trace" additivity="false">
+    <logger name="com.everis.ejercicio2" level="trace" additivity="false">
         <appender-ref ref="RollingFile" />
         <appender-ref ref="Console" />
         <appender-ref ref="SevereRollingFile" />

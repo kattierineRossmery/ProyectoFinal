@@ -1,0 +1,6 @@
+projectKey=com.everis:ejercicio1
+serverUrl=http://localhost:9000
+serverVersion=7.7.0.23042
+dashboardUrl=http://localhost:9000/dashboard?id=com.everis%3Aejercicio1
+ceTaskId=AWsOedtSrKiPl9p-8PqA
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AWsOedtSrKiPl9p-8PqA

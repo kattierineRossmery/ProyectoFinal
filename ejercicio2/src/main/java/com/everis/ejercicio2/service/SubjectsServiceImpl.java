@@ -4,8 +4,10 @@ import java.util.List;
 import java.util.Optional;
 
 import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Service;
 
+import com.everis.ejercicio2.exception.ModeloNotFoundException;
 import com.everis.ejercicio2.models.Subjects;
 import com.everis.ejercicio2.repository.ISubjectDAO;
 
@@ -43,7 +45,14 @@ public class SubjectsServiceImpl implements ISubjectService{
 
 	@Override
 	public void softDelete(int id) {
-		repo.softDelete(id);
+		repo.findById(id)
+        .map(
+            p -> {
+            	repo.softDelete(id);
+              return ResponseEntity.noContent().build();
+            })
+        .orElseThrow(() -> new ModeloNotFoundException("ID-"+ id +"no encontrado"));	
+	
 	}
 
 
